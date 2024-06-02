@@ -1,0 +1,562 @@
+File,Extracted_Entities,Ground_Truth_Entities,True_Positive,True_Negative,False_Positive,False_Negative,Accuracy
+es-S0211-69952016000600552-1,"['immunoglobulins', 'phosphorus', 'calcium', 'diazepam', 'levetiracetam', 'mg', 'potassium', 'sodium', 'st', 'calcium carbonate', 'calcitriol', 'sodium bicarbonate', 'magnesium', 'vitamin d', 'oxygen', 'valproic acid', 'p', 'bicarbonate']","['levetiracetam', 'calcitriol', 'potassium', 'valproic acid', 'calcium carbonate', 'sodium bicarbonate', 'magnesium', 'diazepam']",8,0,10,0,0.4444444444444444
+S0004-06142006000700012-1,"['mg', 'albendazole']",['albendazole'],1,0,1,0,0.5
+es-S1130-63432014000400016-1,"['prednisone', 'etanercept', 'calcium folinate', 'methotrexate', 'canakinumab', 'mg', 'anakinra']","['prednisone', 'etanercept', 'calcium folinate', 'methotrexate', 'canakinumab', 'anakinra']",6,0,1,0,0.8571428571428571
+S0004-06142006000900015-1,"['interferon', 'intron a']","['interferon', 'intron a']",2,0,0,0,1.0
+es-S0378-48352006000600006-1,"['leuprorelin', 'bicalutamide', 'megestrol acetate']","['leuprorelin', 'bicalutamide', 'megestrol acetate']",3,0,0,0,1.0
+es-S0210-48062003000900013-1,['atrasentan'],['atrasentan'],1,0,0,0,1.0
+es-S1130-63432015000100008-1,"['pravastatin', 'trazodone', 'alendronic acid', 'candesartan', 'hydrochlorothiazide', 'tolvaptan', 'cholecalciferol', 'furosemide', 'mg', 'spironolactone', 'isosorbide mononitrate', 'acetylsalicylic acid', 'atenolol', 'calcium carbonate', 'torasemide', 'sodium', 'sertraline', 'losartan']","['pravastatin', 'trazodone', 'alendronic acid', 'candesartan', 'hydrochlorothiazide', 'tolvaptan', 'cholecalciferol', 'furosemide', 'spironolactone', 'isosorbide mononitrate', 'acetylsalicylic acid', 'atenolol', 'calcium carbonate', 'torasemide', 'sertraline', 'losartan']",16,0,2,0,0.8888888888888888
+es-S1698-69462006000100019-1,"['5-fluorouracil', 'cpt11', 'leucovorin', 'oxaliplatin', '5 fluorouracil']","['5 fluorouracil', 'leucovorin', 'cpt11', 'oxaliplatin']",4,0,1,0,0.8
+es-S2254-28842014000300010-1,"['vancomycin', 'cloxacillin']","['vancomycin', 'cloxacillin']",2,0,0,0,1.0
+es-S0210-48062007000100011-1,"['aspirin', 'enoxaparin', 'streptokinase', 'cocaine', 'mg', 'metoprolol', 'st', 'lovastatin', 'oxygen', 'sildenafil']","['aspirin', 'enoxaparin', 'streptokinase', 'cocaine', 'metoprolol', 'lovastatin', 'oxygen', 'sildenafil']",8,0,2,0,0.8
+es-S1139-76322016000400020-1,"['mg', 'amoxicillin']",['amoxicillin'],1,0,1,0,0.5
+es-S0365-66912010000300004-1,"['dorzolamide', 'sf6', 'dexamethasone', 'timolol maleate', 'cyclopentolate', 'latanoprost', 'saline']","['dorzolamide', 'sf6', 'dexamethasone', 'timolol maleate', 'cyclopentolate', 'latanoprost', 'saline']",7,0,0,0,1.0
+es-S1137-66272009000100014-1,"['omeprazole', 'mg', 'diclofenac', 'aspirin']","['omeprazole', 'diclofenac', 'aspirin']",3,0,1,0,0.75
+es-S1887-85712015000100005-1,"['darunavir', 'alcohol', 'emtricitabine', 'tenofovir', 'oxygen', 'iron']","['oxygen', 'darunavir', 'emtricitabine', 'tenofovir']",4,0,2,0,0.6666666666666666
+es-S1139-76322015000100010-1,"['prednisone', 'mg']",['prednisone'],1,0,1,0,0.5
+S0004-06142006000600012-1,"['dactinomycin', 'vincristine', 'doxorubicin']","['dactinomycin', 'vincristine', 'doxorubicin']",3,0,0,0,1.0
+es-S0212-71992005000700008-1,"['hydroaltresone', 'saline solution', 'dopamine', 'mg', 'actocortin', 'k', 'glucose', 'acth', 'o2', 'bicarbonate']","['hydroaltresone', 'saline solution', 'dopamine', 'actocortin', 'glucose', 'o2']",6,0,4,0,0.6
+es-S0211-69952012000700028-1,"['prednisone', 'enalapril', 'albumin', 'streptomycin', 'mg', 'procaine', 'levothyroxine', 'chlorthalidone', 'omeprazole']","['prednisone', 'enalapril', 'streptomycin', 'levothyroxine', 'procaine', 'chlorthalidone', 'omeprazole']",7,0,2,0,0.7777777777777778
+es-S0365-66912009000300010-1,"['mg', 'prednisone', 'ibuprofen', 'botulinum toxin']","['prednisone', 'ibuprofen', 'botulinum toxin']",3,0,1,0,0.75
+es-S0210-48062009000600016-1,"['mg', 'spironolactone', 'albumin']",['spironolactone'],1,0,2,0,0.3333333333333333
+es-S1699-695X2014000200007-1,"['omeprazole', 'amoxicillin', 'clarithromycin']","['omeprazole', 'amoxicillin', 'clarithromycin']",3,0,0,0,1.0
+es-S1130-14732005000600008-1,['sodium heparin'],['sodium heparin'],1,0,0,0,1.0
+es-S0376-78922009000300005-1,"['adrenaline', 'physiological saline']","['adrenaline', 'physiological saline']",2,0,0,0,1.0
+es-S1137-66272016000200015-1,"['mg', 'oral iron', 'iron']",['iron'],1,0,2,0,0.3333333333333333
+es-S1130-63432013000500014-1,"['fludarabine', 'cyclophosphamide', 'rituximab', 'mg', 'bendamustine']","['rituximab', 'fludarabine', 'cyclophosphamide', 'bendamustine']",4,0,1,0,0.8
+es-S1134-80462015000200003-1,"['mg', 'bupivacaine', 'metamizole', 'fentanyl', 'ondansetron', 'physiological saline']","['bupivacaine', 'metamizole', 'fentanyl', 'ondansetron', 'physiological saline']",5,0,1,0,0.8333333333333334
+es-S0211-69952014000600016-1,"['sirolimus', 'tacrolimus', 'mg', 'mmf', 'daclizumab', 'cipro-floxacin']","['sirolimus', 'tacrolimus', 'mmf', 'daclizumab', 'cipro-floxacin']",5,0,1,0,0.8333333333333334
+S0004-06142006000500011-1,"['mg', 'vinorelbine', 'cisplatin', 'docetaxel']","['vinorelbine', 'cisplatin', 'docetaxel']",3,0,1,0,0.75
+es-S0210-56912008000200007-2,"['1.36% glucose', 'mg', 'glucose', 'p', 'noradrenaline']",['noradrenaline'],1,0,4,0,0.2
+es-S0210-48062004000400008-1,['interleukin-2'],['interleukin-2'],1,0,0,0,1.0
+es-S1137-66272014000300017-1,"['penicillin', 'cloxacillin', 'clindamycin', 'mupirocin', 'amoxicillin-clavulanic acid']","['penicillin', 'cloxacillin', 'clindamycin', 'mupirocin', 'amoxicillin-clavulanic acid']",5,0,0,0,1.0
+es-S1134-80462008000200008-1,"['prednisone', 'morphic chloride', 'mg', 'bupivacaine', 'fentanyl']","['morphic chloride', 'bupivacaine', 'prednisone', 'fentanyl']",4,0,1,0,0.8
+es-S0211-69952012000700031-1,"['mg', 'prednisone', 'amphotericin b', 'voriconazole']","['prednisone', 'amphotericin b', 'voriconazole']",3,0,1,0,0.75
+es-S1137-66272010000400007-1,"['mg', 'zinc', 'enalapril', 'glucose']",['enalapril'],1,0,3,0,0.25
+es-S1139-76322017000200010-1,"['methicillin', '2% sodium borate', 'deflazacort', 'cloxacillin', 'clindamycin', 'mg']","['deflazacort', 'cloxacillin', '2% sodium borate', 'clindamycin']",4,0,2,0,0.6666666666666666
+es-S0212-71992004000800009-1,"['levofloxacin', 'phenytoin', 'sulphadiazine', 'amphotericin-b', 'cotrimoxazole', 'sodium', 'p', 'folic acid', 'pyrimethamine']","['levofloxacin', 'phenytoin', 'sulphadiazine', 'amphotericin-b', 'cotrimoxazole', 'folic acid', 'pyrimethamine']",7,0,2,0,0.7777777777777778
+es-S0211-69952009000500014-1,"['aspirin', 'enalapril', 'albumin', 'mg', 'losartan']","['enalapril', 'aspirin', 'losartan']",3,0,2,0,0.6
+es-S0212-71992007000600008-1,"['moxifloxacin', 'levofloxacin', 'amoxicillin', 'prednisone', 'tiotropium bromide', 'gemcitabine', 'salbutamol', 'furosemide', 'mg', 'acetylsalicylic acid', 'cisplatin']","['moxifloxacin', 'levofloxacin', 'amoxicillin', 'prednisone', 'tiotropium bromide', 'gemcitabine', 'salbutamol', 'furosemide', 'acetylsalicylic acid', 'cisplatin']",10,0,1,0,0.9090909090909092
+es-S1137-66272014000200013-1,"['mg', 'dacarbazine', 'fotemustine', 'ipilimumab']","['fotemustine', 'dacarbazine', 'ipilimumab']",3,0,1,0,0.75
+es-S0376-78922009000400002-1,['physiological saline solution'],['physiological saline solution'],1,0,0,0,1.0
+es-S0365-66912004001100011-1,"['amphotericin b', 'tobramycin', 'itraconazole', 'mg', 'cefazolin', 'brimonidine', 'aceclofenac', 'voriconazole']","['amphotericin b', 'tobramycin', 'itraconazole', 'cefazolin', 'brimonidine', 'aceclofenac', 'voriconazole']",7,0,1,0,0.875
+es-S0212-16112012000600045-1,"['fosfomycin', 'albumin', 'ciprofloxacin', 'magnesium', 'phosphate']","['ciprofloxacin', 'fosfomycin']",2,0,3,0,0.4
+es-S0211-69952009000500017-1,"['enalapril', 'mg', 'glucose', 'p', 'losartan']","['enalapril', 'losartan']",2,0,3,0,0.4
+es-S1130-01082010000700016-1,"['midazolam', 'piperacillin-tazobactam', 'remifentanil', 'propofol']","['piperacillin', 'tazobactam', 'midazolam', 'remifentanil', 'propofol']",3,0,1,2,0.5
+es-S0211-57352013000300012-1,"['mg', 'gh', 'sertraline', 'growth hormone']","['gh', 'sertraline', 'growth hormone']",3,0,1,0,0.75
+es-S1130-01082009001000013-1,"['sucralfate', 'apc', 'formalin', '5-aminosalicylic acid']","['sucralfate', 'apc', 'formalin', '5-aminosalicylic acid']",4,0,0,0,1.0
+es-S0210-48062007000400012-1,"['bcg', 'mg', 'carboplatin', 'taxol', 'lactulose']","['carboplatin', 'taxol', 'lactulose']",3,0,2,0,0.6
+S0004-06142007000200017-1,['carboplatin'],['carboplatin'],1,0,0,0,1.0
+es-S1130-05582008000400007-2,"['betamethasone', 'mg']",['betamethasone'],1,0,1,0,0.5
+es-S1130-63432015000500008-1,"['interferon-beta', 'fingolimod', 'natalizumab', 'mmc']","['interferon-beta', 'fingolimod', 'natalizumab']",3,0,1,0,0.75
+es-S1699-65852010000300002-1,"['chlorhexidine', 'phosphate', 'ibuprofen', 'amoxicillin + clavulanic acid']","['clavulanic acid', 'chlorhexidine', 'amoxicillin', 'ibuprofen']",2,0,2,2,0.3333333333333333
+es-S0210-56912008000400007-4,['labetalol'],['labetalol'],1,0,0,0,1.0
+es-S1135-76062003000400006-1,"['solinitrin', 'zantac', 'aspirin', 'streptokinase']","['solinitrin', 'zantac', 'aspirin', 'streptokinase']",4,0,0,0,1.0
+es-S1130-01082009000400011-1,"['mg', 'acetylsalicylic acid', 'enalapril', 'insulin']","['acetylsalicylic acid', 'enalapril']",2,0,2,0,0.5
+es-S0211-69952013000700025-1,"['prednisone', 'immunoglobulin', 'cyclophosphamide', 'amlodipine', 'cyclosporin a', 'mycophenolate mofetil', 'hydrochlorothiazide', 'ramipril', 'irbesartan', 'mycophenolate', 'tacrolimus', 'doxazosin', 'mg', 'atenolol']","['prednisone', 'cyclophosphamide', 'amlodipine', 'cyclosporin a', 'mycophenolate mofetil', 'hydrochlorothiazide', 'ramipril', 'irbesartan', 'mycophenolate', 'tacrolimus', 'doxazosin', 'atenolol']",12,0,2,0,0.8571428571428571
+es-S0376-78922007000400008-1,"['penicillin', 'furosemide', 'alcohol', 'clindamycin', 'mg', 'k', 'ciprofloxacin', 'gentamycin']","['penicillin', 'furosemide', 'clindamycin', 'ciprofloxacin', 'gentamycin']",5,0,3,0,0.625
+es-S0212-71992007000100007-1,"['chlorine', 'phosphorus', 'immunoglobulin', 'calcium', 'penicillin', 'amoxicillin + clavulanic acid', 'mg', 'potassium', 'sodium', 'glucose']","['penicillin', 'amoxicillin + clavulanic acid']",2,0,8,0,0.2
+es-S0376-78922016000300010-1,"['cefazolin', 'mg', 'acetylsalicylic acid', 'ketoprofen']","['cefazolin', 'acetylsalicylic acid', 'ketoprofen']",3,0,1,0,0.75
+es-S0365-66912010000600004-1,['heparin'],['heparin'],1,0,0,0,1.0
+es-S0365-66912006001000011-1,"['naproxen', 'sulfacetamide', 'ampicillin', 'dicloxacillin']","['naproxen', 'sulfacetamide', 'ampicillin', 'dicloxacillin']",4,0,0,0,1.0
+es-S0211-69952014000100016-1,"['prednisone', 'amoxicillin', 'liposomal amphotericin b', 'posaconazole', 'mycophenolate mofetil', 'mycophenolate', 'tacrolimus', 'mg', 'methylprednisolone', 'k', 'linezolid', 'meropenem', 'cyclosporine']","['prednisone', 'amoxicillin', 'liposomal amphotericin b', 'posaconazole', 'mycophenolate mofetil', 'mycophenolate', 'tacrolimus', 'methylprednisolone', 'linezolid', 'meropenem', 'cyclosporine']",11,0,2,0,0.8461538461538461
+es-S0365-66912006001100007-1,"['ciprofloxacin', 'dexamethasone']","['ciprofloxacin', 'dexamethasone']",2,0,0,0,1.0
+es-S0210-56912011000700007-1,"['allopurinol', 'mitomycin', 'ciclosporin a']","['allopurinol', 'mitomycin', 'ciclosporin a']",3,0,0,0,1.0
+es-S1699-695X2015000200013-1,"['fluticasone propionate', 'risperidone', 'levothyroxine', 'methylphenidate', 'calcipotriol']","['fluticasone propionate', 'risperidone', 'levothyroxine', 'methylphenidate', 'calcipotriol']",5,0,0,0,1.0
+es-S0211-69952016000300015-1,"['mg', 'pilocarpine', 'agalsidase beta', 'agalsidase alfa']","['agalsidase beta', 'agalsidase alfa']",2,0,2,0,0.5
+es-S1137-66272013000200019-1,"['silicone gel', 'triamcinolone acetonide']","['silicone gel', 'triamcinolone acetonide']",2,0,0,0,1.0
+es-S1131-57682003000400014-1,['amoxicillin'],['amoxicillin'],1,0,0,0,1.0
+es-S0365-66912011000600006-1,"['cyclophosphamide', 'vincristine', 'etoposide', 'taxol', 'adriamycin', 'acth', 'ketoconazole', 'cisplatin']","['cyclophosphamide', 'vincristine', 'etoposide', 'taxol', 'adriamycin', 'ketoconazole', 'cisplatin']",7,0,1,0,0.875
+es-S0210-48062007000700015-1,"['isoniazid', 'ethambutol', 'rifampicin', 'bcg']","['isoniazid', 'ethambutol', 'rifampicin']",3,0,1,0,0.75
+es-S0210-48062005000700012-1,"['doxycycline', 'doxacycline', 'septrim forte', 'ciprofloxacin', 'rifampicin']","['doxycycline', 'doxacycline', 'septrim forte', 'ciprofloxacin', 'rifampicin']",5,0,0,0,1.0
+es-S0004-06142009000800011-1,['cephalothin'],['cephalothin'],1,0,0,0,1.0
+es-S1130-01082009000500012-1,['5-fluorouracil'],['5-fluorouracil'],1,0,0,0,1.0
+es-S0365-66912007000900010-1,"['calcium', 'atropine 1%', 'mg', 'dexamethasone']","['atropine 1%', 'dexamethasone']",2,0,2,0,0.5
+es-S0211-57352007000200017-1,"['mg', 'amisulpride', 'clonacepam', 'haloperidol']","['amisulpride', 'clonacepam', 'haloperidol']",3,0,1,0,0.75
+S0004-06142005000900015-1,"['mesna', 'ifosfamide', 'adriamycin']","['mesna', 'ifosfamide', 'adriamycin']",3,0,0,0,1.0
+es-S0213-12852005000400003-1,"['prednisone', 'azathiproprine', 'nystatin', 'mg', 'calcium carbonate', 'omeprazole', 'vitamin d4', 'azathioprine']","['prednisone', 'azathiproprine', 'nystatin', 'calcium carbonate', 'omeprazole', 'vitamin d4', 'azathioprine']",7,0,1,0,0.875
+es-S1130-05582014000400006-2,"['vancomycin', 'saline solution', 'clindamycin', 'mg', 'meropenem']","['vancomycin', 'saline solution', 'meropenem', 'clindamycin']",4,0,1,0,0.8
+es-S0365-66912006000400010-1,"['erythromycin', 'fluorometholone']","['erythromycin', 'fluorometholone']",2,0,0,0,1.0
+es-S1137-66272012000100018-1,"['zonisamide', 'vpa', 'zns', 'levetiracetam', 'oxc', 'mg', 'valproic acid', 'oxcarbazepine', 'lev']","['zonisamide', 'vpa', 'zns', 'levetiracetam', 'oxc', 'valproic acid', 'oxcarbazepine', 'lev']",8,0,1,0,0.8888888888888888
+es-S1130-63432013000600017-1,"['lidocaine', 'prilocaine', 'mg', 'methylene blue', 'oxygen', 'emla']","['prilocaine', 'methylene blue', 'lidocaine', 'emla']",4,0,2,0,0.6666666666666666
+es-S1137-66272011000100013-2,"['itraconazole', 'voriconazole']","['itraconazole', 'voriconazole']",2,0,0,0,1.0
+es-S0365-66912005001100010-2,"['mitomycin-c 0.02%', 'mitomycin-c']","['mitomycin-c 0.02%', 'mitomycin-c']",2,0,0,0,1.0
+es-S0212-16112011000600041-1,"['mg', 'albumin', 'azathioprine']",['azathioprine'],1,0,2,0,0.3333333333333333
+es-S1887-85712015000200004-1,"['paracetamol', 'midazolam', 'granisetron', 'fentanyl', 'mg', 'bupivacaine 0.25%', 'desketoprofen', 'propofol', 'sevofluorane', 'rocuronium', 'cefazolin', 'o2', 'celox', 'metronidazole', 'oculo-epithelial', 'ketamine', 'omeprazole', 'tranexamic acid', 'metamizole']","['desketoprofen', 'metronidazole', 'oculo-epithelial', 'rocuronium', 'paracetamol', 'cefazolin', 'midazolam', 'sevofluorane', 'ketamine', 'o2', 'granisetron', 'propofol', 'omeprazole', 'tranexamic acid', 'celox', 'metamizole', 'bupivacaine', 'fentanyl']",17,0,2,1,0.85
+es-S0211-69952017000200225-2,"['mg', 'phosphate', 'eculizumab']",['eculizumab'],1,0,2,0,0.3333333333333333
+es-S1137-66272009000500015-1,"['mg', 'cisplatin', 'somatostatin']","['cisplatin', 'somatostatin']",2,0,1,0,0.6666666666666666
+es-S1139-76322010000600010-1,"['amoxicillin/clavulanic acid', 'acyclovir', 'tobramycin']","['amoxicillin/clavulanic acid', 'acyclovir', 'tobramycin']",3,0,0,0,1.0
+es-S1134-80462005000100007-1,"['mg', 'midazolam', 'remifentanil', 'ropivacaine 0.2%', 'ropivacaine 0.18%', 'bupivacaine 0.25%', 'propofol', 'o2', 'fentanyl', 'mivacurium']","['midazolam', 'remifentanil', 'ropivacaine 0.2%', 'ropivacaine 0.18%', 'bupivacaine 0.25%', 'propofol', 'o2', 'fentanyl', 'mivacurium']",9,0,1,0,0.9
+es-S1139-76322015000300015-1,"['mg', 'amoxicillin-clavulanic acid']",['amoxicillin-clavulanic acid'],1,0,1,0,0.5
+es-S0210-56912009000900008-1,"['oseltamivir', 'azithromycin', 'piperacillin-tazobactam']","['oseltamivir', 'azithromycin', 'piperacillin-tazobactam']",3,0,0,0,1.0
+es-S0211-69952010000400013-1,"['mg', 'immunoglobulins', 'methotrexate']",['methotrexate'],1,0,2,0,0.3333333333333333
+es-S1137-66272009000100010-1,"['prednisone', 'mg']",['prednisone'],1,0,1,0,0.5
+es-S0004-06142009000500011-1,"['prednisone', 'insulin', 'mycophenolate mofetil', 'tacrolimus', 'mg', 'k']","['prednisone', 'mycophenolate mofetil', 'insulin', 'tacrolimus']",4,0,2,0,0.6666666666666666
+es-S1139-76322009000400007-1,"['calcium', 'phosphorus', 'paracetamol']",['paracetamol'],1,0,2,0,0.3333333333333333
+es-S1137-66272007000500016-1,"['prednisone', 'hydroxychloroquine', 'salazopyrin', 'etanercept', 'methotrexate', 'mg', 'folic acid', 'yttrium-90', 'iron', 'asa']","['prednisone', 'hydroxychloroquine', 'salazopyrin', 'etanercept', 'methotrexate', 'folic acid', 'yttrium-90', 'iron']",8,0,2,0,0.8
+es-S0004-06142009000100014-1,"['prednisone', 'strontium', 'gonadotropin-releasing hormone analogue', 'a-lhrh', 'st', 'zoledronic acid', 'testosterone', 'morphine', 'docetaxel']","['prednisone', 'strontium', 'gonadotropin-releasing hormone analogue', 'a-lhrh', 'st', 'zoledronic acid', 'docetaxel']",7,0,2,0,0.7777777777777778
+es-S0365-66912010001200005-1,"['prednisone', 'omeprazole']","['prednisone', 'omeprazole']",2,0,0,0,1.0
+es-S1137-66272010000300010-1,"['calcium', 'furosemide', 'albumin', 'mg', 'zoledronate']","['furosemide', 'zoledronate']",2,0,3,0,0.4
+es-S1137-66272013000100024-1,"['immunoglobulins', 'cloxacillin', 'mg', 'amoxicillin-clavulanic acid', 'cefotaxime']","['cefotaxime', 'cloxacillin', 'amoxicillin-clavulanic acid']",3,0,2,0,0.6
+es-S0378-48352006000300006-1,"['mg', 'temozolomide']",['temozolomide'],1,0,1,0,0.5
+es-S0212-71992007000200007-1,"['factor viii', 'cyclophosphamide']",['cyclophosphamide'],1,0,1,0,0.5
+es-S0212-16112006000100018-1,"['prednisone', 'phosphorus', 'calcium', 'alendronate', 'mg', 'methylprednisolone', 'vitamin d']","['prednisone', 'calcium', 'alendronate', 'methylprednisolone', 'vitamin d']",5,0,2,0,0.7142857142857143
+es-S0210-56912006000600007-1,"['etomidate', 'amlodipine', 'carvedilol', 'captopril', 'heparin', 'mg', 'midazolam', 'remifentanil', 'st', 'acetylsalicylic acid', 'protamine', 'cisatracurium', 'methylene blue', 'dobutamine', '5% glucose', 'noradrenaline', 'simvastatin']","['glucose solution', 'etomidate', 'amlodipine', 'carvedilol', 'captopril', 'heparin', 'midazolam', 'remifentanil', 'acetylsalicylic acid', 'protamine', 'methylene blue', 'cisatracurium', 'dobutamine', 'noradrenaline', 'simvastatin']",14,0,3,1,0.7777777777777778
+es-S0212-71992005000400009-1,"['methicillin', 'levofloxacin', 'immunoglobulins', 'cloxacillin', 'mg', 'gentamicin', 'rifampicin']","['gentamicin', 'levofloxacin', 'cloxacillin', 'rifampicin']",4,0,3,0,0.5714285714285714
+es-S0365-66912005001100008-1,"['atropine 1%', 'doxycycline', 'carmellose sodium', 'atropine', 'tobradex', 'prednisone', 'vitamin a', 'vancomycin', 'tobramycin', 'dexamethasone', 'mg', 'diatracin', 'gentamicin', 'cicloplegic', 'cyclopentolate hydrochloride', 'insulin', 'viscofresh 0.5%', 'vibracina', 'tobrex', 'gevramycin', 'dacortin']","['prednisone', 'atropine 1%', 'vancomycin', 'doxycycline', 'tobramycin', 'viscofresh 0.5%', 'tobrex', 'carmellose sodium', 'dexamethasone', 'vibracina', 'atropine', 'dacortin', 'tobradex', 'gevramycin', 'diatracin', 'gentamicin', 'cicloplegic', 'cyclopentolate hydrochloride']",18,0,3,0,0.8571428571428571
+es-S0212-71992005001000009-1,"['levofloxacin', 'vancomycin', 'tobramycin', 'mg', 'oxygen']","['oxygen', 'levofloxacin', 'vancomycin', 'tobramycin']",4,0,1,0,0.8
+es-S0210-56912008000200007-1,"['1.36% glucose', 'mg', 'glucose', 'p', 'noradrenaline']",['noradrenaline'],1,0,4,0,0.2
+es-S0378-48352004000300007-1,"['prednisone', 'bleomycin', 'cyclophosphamide', 'vinblastine', 'procarbazine', 'vincristine', 'mg', 'doxorubicin', 'dacarbazine']","['prednisone', 'bleomycin', 'cyclophosphamide', 'vinblastine', 'procarbazine', 'vincristine', 'doxorubicin', 'dacarbazine']",8,0,1,0,0.8888888888888888
+es-S0365-66912005001100009-1,"['brinzolamide 0.1%', 'azopt']","['brinzolamide 0.1%', 'azopt']",2,0,0,0,1.0
+es-S0365-66912007000900014-1,"['mg', 'famciclovir', 'acetylsalicylic acid', 'acyclovir']","['famciclovir', 'acetylsalicylic acid', 'acyclovir']",3,0,1,0,0.75
+es-S0212-71992000001200010-1,"['gentamicin', 'mg', 'clindamycin']","['gentamicin', 'clindamycin']",2,0,1,0,0.6666666666666666
+es-S0365-66912011000400005-1,"['prednisone', 'leflunomide', 'hydroxychloroquine', 'rituximab', 'methotrexate', 'sulfasalazine', 'methylprednisolone', 'infliximab', 'cyclosporine']","['prednisone', 'leflunomide', 'hydroxychloroquine', 'rituximab', 'methotrexate', 'sulfasalazine', 'methylprednisolone', 'infliximab', 'cyclosporine']",9,0,0,0,1.0
+es-S1130-01082008000200009-1,"['mg', 'acetylsalicylic acid']",['acetylsalicylic acid'],1,0,1,0,0.5
+es-S1139-76322015000300018-1,"['acyclovir', 'mg', 'ampicillin', 'glucose', 'oxygen', 'cefotaxime']","['cefotaxime', 'acyclovir', 'ampicillin']",3,0,3,0,0.5
+es-S0004-06142009000400011-1,"['ifosfamide', 'adriamycin']","['ifosfamide', 'adriamycin']",2,0,0,0,1.0
+es-S0210-48062007000700017-1,"['gemcitabine', 'carboplatin', 'bcg']","['gemcitabine', 'carboplatin']",2,0,1,0,0.6666666666666666
+es-S1134-80462009000500006-1,"['fentanyl', 'tramadol', 'paracetamol', 'mg', 'folic acid', 'pregabalin', 'iron']","['fentanyl', 'tramadol', 'paracetamol', 'folic acid', 'pregabalin', 'iron']",6,0,1,0,0.8571428571428571
+es-S1579-699X2004000400002-1,"['maprotiline', 'p', 'alprazolam', 'paroxetine']","['maprotiline', 'alprazolam', 'paroxetine']",3,0,1,0,0.75
+es-S0365-66912008000200014-1,"['mg', 'vitamin a', 'vitamin k', 'vitamin b12']","['vitamin a', 'vitamin k', 'vitamin b12']",3,0,1,0,0.75
+es-S0210-56912006000200007-1,"['phosphorus', 'calcium', 'activated charcoal', 'magnesium', 'mg', 'sodium', 'potassium', 'st', 'sodium bicarbonate', 'glucose', 'dimercaprol', 'noradrenaline', 'bicarbonate']","['phosphorus', 'activated charcoal', 'dimercaprol', 'potassium', 'sodium bicarbonate', 'magnesium', 'noradrenaline']",7,0,6,0,0.5384615384615384
+es-S1130-01082008000900014-1,"['metoclopramide', 'erythromycin']","['metoclopramide', 'erythromycin']",2,0,0,0,1.0
+es-S1139-76322017000200007-1,"['interferon', 'pyrazinamide', 'bcg', 'streptomycin', 'isoniazid', 'amoxicillin-clavulanic acid', 'ethambutol', 'rifampicin']","['pyrazinamide', 'streptomycin', 'isoniazid', 'amoxicillin-clavulanic acid', 'ethambutol', 'rifampicin']",6,0,2,0,0.75
+es-S1130-63432014000500008-1,"['alprazolam', 'enoxaparin', 'nitroglycerine', 'mg', 'clopidogrel', 'acetylsalicylic acid', 'atenolol', 'nitroglycerin', 'venlafaxine', 'sertraline']","['alprazolam', 'enoxaparin', 'nitroglycerine', 'clopidogrel', 'acetylsalicylic acid', 'atenolol', 'nitroglycerin', 'venlafaxine', 'sertraline']",9,0,1,0,0.9
+es-S1139-76322009000700016-1,"['albumin', 'mg', 'ranitidine', 'glucose', 'omeprazole']","['omeprazole', 'ranitidine']",2,0,3,0,0.4
+es-S0365-66912009000300009-1,"['mg', 'dexamethasone', 'tobramycin', 'ceftriaxone']","['dexamethasone', 'tobramycin', 'ceftriaxone']",3,0,1,0,0.75
+es-S0365-66912006000600010-2,"['mg', 'topamax']",['topamax'],1,0,1,0,0.5
+es-S0004-06142010000300011-1,['bevacizumab'],['bevacizumab'],1,0,0,0,1.0
+es-S0365-66912006000700009-1,"['trigon depot', 'mg', 'timoftol® 0.5%', 'triamcinolone', 'timolol 0.5%']","['trigon depot', 'timoftol® 0.5%', 'triamcinolone', 'timolol 0.5%']",4,0,1,0,0.8
+es-S0212-71992005000500009-1,"['pyrazinamide', 'mg', 'isoniazid', 'glucose', 'rifampicin']","['isoniazid', 'pyrazinamide', 'rifampicin']",3,0,2,0,0.6
+es-S1130-01082007000400015-1,['ertapenem'],['ertapenem'],1,0,0,0,1.0
+es-S1130-01082005000500013-1,['interferon'],['interferon'],1,0,0,0,1.0
+es-S1130-14732008000500005-1,"['acenocoumarol', 'low molecular weight heparin']","['acenocoumarol', 'low molecular weight heparin']",2,0,0,0,1.0
+es-S1130-63432014000400015-1,"['moxifloxacin', 'mg', 'metronidazole', 'vancomycin']","['moxifloxacin', 'vancomycin', 'metronidazole']",3,0,1,0,0.75
+es-S0211-69952015000500015-2,"['tg', 'mycophenolate', 'tacrolimus', 'mmf', 'thymoglobulin', 'fk']","['tg', 'mycophenolate', 'tacrolimus', 'mmf', 'thymoglobulin', 'fk']",6,0,0,0,1.0
+es-S1130-63432015000200008-1,"['prednisone', 'fluoropyrimidines', 'oxaliplatin', 'mg', 'raltitrexed']","['prednisone', 'raltitrexed', 'fluoropyrimidines', 'oxaliplatin']",4,0,1,0,0.8
+es-S1699-695X2016000200010-1,"['levofloxacin', 'dexketoprofen', 'sulpiride', 'clioquinol', 'acyclovir', 'mg', 'beclomethasone', 'betahistine']","['levofloxacin', 'dexketoprofen', 'sulpiride', 'clioquinol', 'acyclovir', 'beclomethasone', 'betahistine']",7,0,1,0,0.875
+es-S0210-48062003001000009-1,"['lidocaine', 'amlodipine', 'chlorthalidone', 'epinephrine', 'atenolol', 'saline']","['lidocaine', 'amlodipine', 'chlorthalidone', 'epinephrine', 'atenolol']",5,0,1,0,0.8333333333333334
+es-S0210-48062007001000016-1,"['prednisone', 'furosemide', 'pentoxifylline', 'mg', 'methylprednisolone']","['prednisone', 'furosemide', 'methylprednisolone', 'pentoxifylline']",4,0,1,0,0.8
+es-S0378-48352006000500005-1,"['mg', '5-fluorouracil', 'cisplatin']","['5-fluorouracil', 'cisplatin']",2,0,1,0,0.6666666666666666
+es-S1130-05582015000100008-1,"['prednisone', 'cyclophosphamide', 'rituximab', 'vincristine', 'granulocyte colony-stimulating factor', 'etoposide', 'cocaine', 'mg', 'methotrexate', 'doxorubicin', 'k', 'amoxicillin/clavulanic acid']","['prednisone', 'cyclophosphamide', 'rituximab', 'vincristine', 'granulocyte colony-stimulating factor', 'etoposide', 'doxorubicin', 'amoxicillin/clavulanic acid']",8,0,4,0,0.6666666666666666
+es-S0376-78922009000100014-1,"['mesna', 'dacarbazine', 'adriamycin', 'ifosmamide']","['mesna', 'dacarbazine', 'adriamycin', 'ifosmamide']",4,0,0,0,1.0
+es-S0365-66912011000800006-1,"['medroxyprogesterone', 'insulin', 'physiological saline']","['medroxyprogesterone', 'physiological saline']",2,0,1,0,0.6666666666666666
+es-S1134-80462015000300003-1,"['tramadol', 'duloxetine', 'botulinum toxin serotype a', 'mg', 'pregabalin', 'dysport', 'pyridostigmine']","['tramadol', 'duloxetine', 'botulinum toxin serotype a', 'pregabalin', 'dysport', 'pyridostigmine']",6,0,1,0,0.8571428571428571
+es-S1137-66272009000500016-1,"['carbaglu', 'dexamethasone', 'mg', 'k', 'glucose', 'o2', 'l carnitine', 'dacortin', 'benzoate na']","['carbaglu', 'dexamethasone', 'l carnitine', 'dacortin', 'benzoate na']",5,0,4,0,0.5555555555555556
+es-S0212-71992006001000007-1,"['gentamicin', 'heparin', 'vancomycin']","['gentamicin', 'heparin', 'vancomycin']",3,0,0,0,1.0
+es-S0376-78922009000400002-2,"['physiological saline solution', 'silver sulfadiazine']","['physiological saline solution', 'silver sulfadiazine']",2,0,0,0,1.0
+es-S0211-69952013000200025-1,"['hydroxyurea', 'mycophenolate', 'tacrolimus', 'dopamine', 'mg', 'methylprednisolone', 'alemtuzumab']","['hydroxyurea', 'mycophenolate', 'tacrolimus', 'dopamine', 'methylprednisolone', 'alemtuzumab']",6,0,1,0,0.8571428571428571
+es-S1135-76062005000100002-1,"['tramadol', 'metamizol', 'nitroplast', 'formalin', 'paracetamol', 'ethyl alcohol', 'trangorex', 'acuprel', 'sulphonylurea', 'morphine', 'sintrom', 'diluton']","['tramadol', 'metamizol', 'nitroplast', 'paracetamol', 'ethyl alcohol', 'trangorex', 'acuprel', 'sulphonylurea', 'morphine', 'sintrom', 'diluton']",11,0,1,0,0.9166666666666666
+es-S1139-76322014000100010-1,['gentamicin'],['gentamicin'],1,0,0,0,1.0
+es-S1139-76322015000300013-1,"['pseudoephedrine', 'pseudoephedrine hydrochloride', 'mg', 'dextromethorphan', 'oxygen']","['pseudoephedrine hydrochloride', 'dextromethorphan', 'pseudoephedrine']",3,0,2,0,0.6
+es-S1130-01082008000900011-1,"['midazolam', 'pethidine']","['midazolam', 'pethidine']",2,0,0,0,1.0
+es-S1130-01082005001000014-1,"['mg', 'methylprednisolone']",['methylprednisolone'],1,0,1,0,0.5
+es-S1139-76322016000300012-1,"['amoxicillin', 'ciprofloxacin', 'amoxicillin plus clavulanic acid', 'azithromycin']","['amoxicillin', 'ciprofloxacin', 'amoxicillin plus clavulanic acid', 'azithromycin']",4,0,0,0,1.0
+es-S1130-63432014000600009-1,"['prednisone', 'mycophenolate', 'cinitapride', 'mg', 'methylprednisolone', 'azathioprine']","['prednisone', 'mycophenolate', 'cinitapride', 'methylprednisolone', 'azathioprine']",5,0,1,0,0.8333333333333334
+es-S0210-48062009000900019-1,"['mesna', 'ifosfamide', 'adriamycin']","['mesna', 'ifosfamide', 'adriamycin']",3,0,0,0,1.0
+es-S0210-56912007000900007-1,"['digoxin', 'nph insulin', 'metformin', 'enoxaparin', 'enalapril', 'mg', 'sodium bicarbonate', 'torasemide', 'allopurinol', 'mirtazapine', 'noradrenaline', 'bicarbonate']","['digoxin', 'nph insulin', 'metformin', 'enoxaparin', 'enalapril', 'sodium bicarbonate', 'torasemide', 'allopurinol', 'mirtazapine', 'noradrenaline']",10,0,2,0,0.8333333333333334
+es-S1139-76322016000300008-1,"['gentamicin', 'cloxacillin', 'silver nitrate', 'mg', 'oxygen']","['gentamicin', 'cloxacillin', 'silver nitrate']",3,0,2,0,0.6
+es-S0212-71992004001100006-1,"['clonazepam', 'tamoxifen', 'albumin', 'mg', 'glucose', 'iron']","['clonazepam', 'tamoxifen']",2,0,4,0,0.3333333333333333
+es-S1137-66272012000100017-1,"['levofloxacin', 'gentamicin', 'g-csf', 'cefotaxime', 'cefuroxime', 'amikacin', 'co-trimoxazole', 'mg', 'ampicillin', 'ciprofloxacin', 'amoxicillin-clavulanic acid', 'imipen', 'cefepime', 'fluconazole', 'carbimazole', 'meropenem', 'azithromycin']","['levofloxacin', 'imipen', 'g-csf', 'cefotaxime', 'cefuroxime', 'amikacin', 'co-trimoxazole', 'ampicillin', 'ciprofloxacin', 'amoxicillin-clavulanic acid', 'gentamicin', 'cefepime', 'fluconazole', 'carbimazole', 'meropenem', 'azithromycin']",16,0,1,0,0.9411764705882352
+es-S1130-14732011000300008-1,"['vancomycin', 'amoxicillin', 'metronidazole', 'p', 'penicillin', 'cotrimoxazole', 'clindamycin', 'ciprofloxacin', 'amoxicillin-clavulanic acid', 'amoxicillin-clavulanate', 'ceftazidime']","['vancomycin', 'amoxicillin', 'metronidazole', 'penicillin', 'cotrimoxazole', 'clindamycin', 'ciprofloxacin', 'amoxicillin-clavulanic acid', 'amoxicillin-clavulanate', 'ceftazidime']",10,0,1,0,0.9090909090909092
+es-S0211-69952013000700023-1,"['immunoglobulin', 'calcium', 'albumin', 'bortezomib', 'dexamethasone', 'mg', 'k', 'lenalidomide']","['lenalidomide', 'bortezomib', 'dexamethasone']",3,0,5,0,0.375
+es-S0212-16112007000800012-1,"['prednisone', 'calcium', 'furosemide', 'albumin', 'mg', 'spironolactone', 'iron']","['prednisone', 'spironolactone', 'furosemide', 'albumin']",4,0,3,0,0.5714285714285714
+es-S1130-63432016000100009-1,"['mg', 'alteplase', 'rivaroxaban', 'enoxaparin']","['alteplase', 'rivaroxaban', 'enoxaparin']",3,0,1,0,0.75
+es-S1134-80462004000400007-1,"['metamizole', 'insulin', 'mg', 'bupivacaine', 'morphine', 'fentanyl']","['metamizole', 'insulin', 'bupivacaine', 'morphine', 'fentanyl']",5,0,1,0,0.8333333333333334
+es-S0376-78922008000400008-1,"['difehylhydantoin', 'diazapam', 'paracetamol', 'amikacin', 'midazolam', 'ciprofloxacin', 'diclofenac', 'moxifloxacin', 'amoxicillin', 'vancomycin', 'ceftriaxone', 'diphenylhydantoin', 'nalbuphine', 'gamma globulin', 'albumin', 'clindamycin', 'methylprednisolone', 'k', 'fluconazole', 'polymyxin']","['moxifloxacin', 'diphenylhydantoin', 'amoxicillin', 'vancomycin', 'gamma globulin', 'difehylhydantoin', 'diazapam', 'paracetamol', 'clindamycin', 'amikacin', 'midazolam', 'nalbuphine', 'methylprednisolone', 'ciprofloxacin', 'diclofenac', 'fluconazole', 'polymyxin', 'ceftriaxone']",18,0,2,0,0.9
+es-S0378-48352006000300005-1,"['prednisone', 'mg', 'amoxicillin-clavulanic acid', 'oxygen', 'chlorambucil', 'p']","['prednisone', 'chlorambucil', 'amoxicillin-clavulanic acid']",3,0,3,0,0.5
+S0004-06142007000100015-1,"['vitamin a', 'prednisone', 'tolterodine', 'ciprofloxacin', 'omeprazole']","['vitamin a', 'prednisone', 'tolterodine', 'ciprofloxacin', 'omeprazole']",5,0,0,0,1.0
+es-S1134-80462009000100005-16,"['fentanyl', 'paracetamol', 'durogesic® matrix']","['fentanyl', 'paracetamol', 'durogesic® matrix']",3,0,0,0,1.0
+es-S0365-66912007000800013-1,"['rt-pa', 'sf6 at 30%']","['rt-pa', 'sf6 at 30%']",2,0,0,0,1.0
+es-S0212-71992005000200008-1,"['phosphorus', 'calcium', 'etilefrine', 'albumin', 'etilefrin', 'vitamin b12', 'sodium', 'spironolactone', 'potassium', 'fludocortisone', 'glucose', 'testosterone', 'folic acid']","['spironolactone', 'etilefrine', 'etilefrin', 'fludocortisone']",4,0,9,0,0.3076923076923077
+es-S0211-69952013000200019-2,['1.36% glucose'],['1.36% glucose'],1,0,0,0,1.0
+es-S1130-01082008000200010-1,"['hydrochlorothiazide', 'amiloride', 'alcohol', 'acenocoumarol', 'mg', 'lovastatin']","['hydrochlorothiazide', 'amiloride', 'acenocoumarol', 'lovastatin']",4,0,2,0,0.6666666666666666
+es-S1130-63432014000100012-1,"['levofloxacin', 'vancomycin', 'doxycycline', 'liposomal amphotericin b', 'ganciclovir', 'acyclovir', 'cidofovir', 'mg', 'methylprednisolone', 'linezolid', 'oxygen', 'probenecid', 'meropenem', 'ceftriaxone']","['levofloxacin', 'vancomycin', 'doxycycline', 'liposomal amphotericin b', 'ganciclovir', 'acyclovir', 'cidofovir', 'methylprednisolone', 'linezolid', 'probenecid', 'meropenem', 'ceftriaxone']",12,0,2,0,0.8571428571428571
+es-S1699-695X2014000300011-1,"['amoxicillin/clavulanic acid', 'metronidazole']","['amoxicillin/clavulanic acid', 'metronidazole']",2,0,0,0,1.0
+es-S1134-80462008000500004-2,"['lidocaine', 'alcohol', 'mg', 'gabapentin', 'amitriptyline', 'carbamazepine']","['lidocaine', 'alcohol', 'gabapentin', 'amitriptyline', 'carbamazepine']",5,0,1,0,0.8333333333333334
+es-S0004-06142008000300013-1,"['diclofenac', 'trimetropin-sulfamethoxazole', 'amoxicillin-clavulanic acid']","['diclofenac', 'trimetropin-sulfamethoxazole', 'amoxicillin-clavulanic acid']",3,0,0,0,1.0
+es-S1139-76322013000500010-1,"['mg', 'trimethoprim-sulfamethoxazole']",['trimethoprim-sulfamethoxazole'],1,0,1,0,0.5
+es-S0365-66912004001200010-2,"['hydroxyurea', 'adiro', 'mg', 'acetylsalicylic acid', 'hydrea']","['hydrea', 'hydroxyurea', 'acetylsalicylic acid', 'adiro']",4,0,1,0,0.8
+es-S0211-69952011000500011-3,"['metformin', 'glucagon', 'cr', 'glimepiride', 'mg', 'bicarbonate']","['metformin', 'glucagon', 'glimepiride']",3,0,3,0,0.5
+es-S1130-63432013000300013-1,"['telaprevir', 'p-inf', 'p-inf alpha 2a', 'rbv', 'lorazepam']","['telaprevir', 'p-inf', 'p-inf alpha 2a', 'rbv', 'lorazepam']",5,0,0,0,1.0
+es-S0210-48062004000500008-1,"['phenylephrine', 'mg', 'saline solution', 'saline']","['phenylephrine', 'saline solution']",2,0,2,0,0.5
+es-S1130-63432016000600014-1,"['lormetazepam', 'clarithromycin', 'bisoprolol', 'furosemide', 'acenocoumarol', 'domperidone', 'mg', 'omeprazole', 'oxygen', 'vitamin d', 'sertraline', 'simvastatin']","['lormetazepam', 'clarithromycin', 'bisoprolol', 'furosemide', 'acenocoumarol', 'domperidone', 'vitamin d', 'omeprazole', 'sertraline', 'simvastatin']",10,0,2,0,0.8333333333333334
+es-S0210-48062006000300015-1,"['acalka', 'potassium citrate']","['acalka', 'potassium citrate']",2,0,0,0,1.0
+es-S1130-05582008000500006-1,"['betamethasone', 'prednisone', 'metformin', 'kenacort', 'lidocaine', 'insulin', 'mg', 'levothyroxine', 'carbamazepine', 'triamcinolone acetonide']","['betamethasone', 'prednisone', 'metformin', 'kenacort', 'lidocaine', 'insulin', 'levothyroxine', 'carbamazepine', 'triamcinolone acetonide']",9,0,1,0,0.9
+es-S0212-16112007000700016-1,"['cernevit', 'adamín g', 'glutamine', 'isoplasmar g', 'mg', 'potassium', 'vitamin b12', 'omeprazole', 'addamel', 'folic acid', 'bicarbonate']","['adamín g', 'glutamine', 'isoplasmar g', 'vitamin b12', 'potassium', 'omeprazole']",6,0,5,0,0.5454545454545454
+es-S1139-76322013000200009-1,"['romilar', 'dextromethorphan']","['romilar', 'dextromethorphan']",2,0,0,0,1.0
+es-S1135-76062013000200010-1,"['mg', 'labetalol']",['labetalol'],1,0,1,0,0.5
+es-S1698-44472004000400012-1,['surgicel'],['surgicel'],1,0,0,0,1.0
+es-S0212-71992007000700008-1,"['prednisone', 'amoxicillin', 'immunoglobulin', 'cyclophosphamide', 'mycophenolate mofetil', 'pentoxifylline', 'mg', 'levothyroxine', 'sodium heparin', 'k', 'methylprednisolone', 'warfarin', 'glucose', 'flunarizine', 'p', 'nitrogen', 'azathioprine']","['prednisone', 'amoxicillin', 'immunoglobulin', 'cyclophosphamide', 'mycophenolate mofetil', 'pentoxifylline', 'levothyroxine', 'sodium heparin', 'methylprednisolone', 'flunarizine', 'warfarin', 'azathioprine']",12,0,5,0,0.7058823529411765
+es-S0004-06142008000300011-1,['hyperbaric bupivacaine'],['hyperbaric bupivacaine'],1,0,0,0,1.0
+es-S0365-66912006000600010-1,"['mg', 'carbamazepine', 'hydantoin', 'topamax']","['carbamazepine', 'hydantoin', 'topamax']",3,0,1,0,0.75
+es-S1699-695X2015000300013-1,"['methimazole', 'calcium', 'mg', 'potassium', 'sodium', 'propranolol', 'magnesium', 'vitamin d']","['potassium', 'methimazole', 'propranolol']",3,0,5,0,0.375
+es-S1130-63432014000300013-4,"['gemcitabine', 'mmc', 'bcg']","['gemcitabine', 'mmc', 'bcg']",3,0,0,0,1.0
+es-S0376-78922014000200012-1,"['vancomycin', 'clindamycin', 'isodine', 'meropenem', 'amphotericin']","['vancomycin', 'clindamycin', 'isodine', 'meropenem', 'amphotericin']",5,0,0,0,1.0
+es-S1130-01082008001200016-1,"['mg', 'imatinib']",['imatinib'],1,0,1,0,0.5
+es-S1135-76062009000400004-1,"['atracurium besylate', 'fentanyl', 'tramadol', 'renifentanil', 'dexketoprofen trometamol', 'dexamethasone', 'mg', 'hydrogen peroxide', 'propofol', 'sevofluorane']","['atracurium besylate', 'fentanyl', 'tramadol', 'renifentanil', 'dexketoprofen trometamol', 'dexamethasone', 'hydrogen peroxide', 'propofol', 'sevofluorane']",9,0,1,0,0.9
+es-S1130-14732006000200011-1,['factor viii'],['factor viii'],1,0,0,0,1.0
+es-S1130-05582015000400005-1,"['epinephrine', 'methylene blue', 'p', 'lidocaine']","['lidocaine', 'epinephrine']",2,0,2,0,0.5
+es-S1134-80462005000300007-1,"['mg', 'epinephrine', 'bupivacaine 0.25%', 'bupivacaine', 'fentanyl', 'low molecular weight heparin']","['bupivacaine', 'epinephrine', 'fentanyl', 'low molecular weight heparin']",4,0,2,0,0.6666666666666666
+es-S0376-78922009000400011-1,"['mg', 'amikacin', 'clindamycin']","['amikacin', 'clindamycin']",2,0,1,0,0.6666666666666666
+es-S1130-01082009000300015-1,"['mesalazine', 'mg', 'plantago ovata', 'omeprazole', 'iron']","['omeprazole', 'plantago ovata', 'iron', 'mesalazine']",4,0,1,0,0.8
+es-S0211-69952011000600018-1,"['prednisone', 'rituximab', 'cr', 'mg', 'acetylsalicylic acid', 'diclofenac', 'asa', 'azathioprine']","['prednisone', 'rituximab', 'acetylsalicylic acid', 'diclofenac', 'asa', 'azathioprine']",6,0,2,0,0.75
+es-S0210-48062009000200018-1,"['sinvastatin', 'mg', 'indapamide']","['sinvastatin', 'indapamide']",2,0,1,0,0.6666666666666666
+es-S0210-56912008000100008-3,"['lidocaine', 'st', 'tenecteplase']","['lidocaine', 'tenecteplase']",2,0,1,0,0.6666666666666666
+es-S0211-69952011000400013-1,"['prednisone', 'tramadol', 'rifampicin', 'interferon', 'pyrazinamide', 'adalimumab', 'mg', 'isoniazid', 'allopurinol', 'ethambutol', 'erythropoietin']","['prednisone', 'tramadol', 'rifampicin', 'pyrazinamide', 'adalimumab', 'isoniazid', 'allopurinol', 'ethambutol', 'erythropoietin']",9,0,2,0,0.8181818181818182
+es-S0365-66912012000200005-1,"['testosterone', 'vasopressin', 'methylprednisolone', 'growth hormone']","['vasopressin', 'methylprednisolone']",2,0,2,0,0.5
+es-S0365-66912007001200009-1,"['sodium', 'triamcinolone']",['triamcinolone'],1,0,1,0,0.5
+es-S1137-66272014000300015-1,"['mg', 'docetaxel', 'somatostatin']","['docetaxel', 'somatostatin']",2,0,1,0,0.6666666666666666
+es-S0210-48062009000200019-1,"['allopurinol', 'captopril', 'atorvastatin']","['allopurinol', 'captopril', 'atorvastatin']",3,0,0,0,1.0
+es-S1137-66272009000300015-1,"['mg', 'immunoglobulins', 'immunoglobulin', 'prednisone']",['prednisone'],1,0,3,0,0.25
+es-S0365-66912012000300005-1,"['prednisone', 'methylprednisolone', 'insulin', 'azathioprine']","['prednisone', 'methylprednisolone', 'insulin', 'azathioprine']",4,0,0,0,1.0
+es-S1137-66272015000300014-1,"['levothyrosine', 'dexketoprofen', 'candesartan', 'paracetamol', 'dexamethasone', 'mg', '0.5% hyperbaric bupivacaine', 'ropivacaine', 'ketamine', 'propofol', 'oxygen', 'morphine', 'o2', 'metamizole', 'fentanyl', 'mepivacaine']","['levothyrosine', 'dexketoprofen', 'candesartan', 'paracetamol', 'dexamethasone', '0.5% hyperbaric bupivacaine', 'ropivacaine', 'ketamine', 'propofol', 'o2', 'metamizole', 'fentanyl', 'mepivacaine']",13,0,3,0,0.8125
+es-S0211-69952012000500016-1,"['immunoglobulins', 'vitamin b12', 'mg', 'folic acid', 'infliximab', 'iron', 'azathioprine']","['infliximab', 'azathioprine']",2,0,5,0,0.2857142857142857
+es-S1137-66272014000200011-1,"['tg', 'radioiodine', 'i131', 'tshrh', 'silver nitrate', 'levothyroxine']","['levothyroxine', 'radioiodine', 'i131', 'tshrh']",4,0,2,0,0.6666666666666666
+es-S1139-76322015000100012-4,"['penicillin', 'mupirocin', 'clotrimazole']","['penicillin', 'mupirocin', 'clotrimazole']",3,0,0,0,1.0
+es-S1130-01082007001000017-1,"['clonazepam', 'physiological saline solution', 'polyethylene glycol', 'cocaine', 'mg', 'glucose', 'casenglicol', 'diazepam', 'o2']","['clonazepam', 'physiological saline solution', 'polyethylene glycol', 'casenglicol', 'diazepam']",5,0,4,0,0.5555555555555556
+es-S0465-546X2009000300008-1,"['mg', 'isoniazid', 'pyrazinamide', 'rifampicin']","['isoniazid', 'pyrazinamide', 'rifampicin']",3,0,1,0,0.75
+es-S0365-66912008001000010-1,"['acetazolamide', 'naproxen']","['acetazolamide', 'naproxen']",2,0,0,0,1.0
+es-S0376-78922009000200008-2,['physiological saline'],['physiological saline'],1,0,0,0,1.0
+es-S1130-14732009000300006-1,"['mg', 'acetylsalicylic acid', 'dexamethasone']","['acetylsalicylic acid', 'dexamethasone']",2,0,1,0,0.6666666666666666
+es-S1139-76322009000200009-1,"['oxygen', 'salbutamol', 'prednisolone']","['oxygen', 'salbutamol', 'prednisolone']",3,0,0,0,1.0
+es-S1130-01082010000700014-1,['5-asa'],['5-asa'],1,0,0,0,1.0
+es-S1888-75462015000400006-1,"['mg', 'glucosamine-chondroitin sulphate']",['glucosamine-chondroitin sulphate'],1,0,1,0,0.5
+es-S0365-66912007000900009-1,"['mg', 'rituximab', 'prednisone', 'cefotaxime']","['prednisone', 'rituximab', 'cefotaxime']",3,0,1,0,0.75
+es-S1130-14732006000400007-1,"['cyclophosphamide', 'calcium', 'vincristine', 'aredia', 'dexamethasone', 'etopoxide', 'adriomycin']","['cyclophosphamide', 'vincristine', 'aredia', 'dexamethasone', 'etopoxide', 'adriomycin']",6,0,1,0,0.8571428571428571
+es-S0365-66912006001200010-1,['methyl-prednisolone'],['methyl-prednisolone'],1,0,0,0,1.0
+es-S0365-66912006000200012-1,"['mg', 'methylprednisolone']",['methylprednisolone'],1,0,1,0,0.5
+es-S0212-71992000001200006-1,"['ganciclovir', 'sulfadiazine', 'pyrimethamine']","['ganciclovir', 'sulfadiazine', 'pyrimethamine']",3,0,0,0,1.0
+es-S0212-16112010000600024-1,"['imipenem', 'cimetidine', 'albumin', 'mg', 'potassium', 'magnesium', 'phosphate', 'thiamine', 'nitrogen']","['imipenem', 'cimetidine', 'potassium', 'magnesium', 'phosphate', 'thiamine', 'nitrogen']",7,0,2,0,0.7777777777777778
+es-S0212-71992003000500006-1,"['mg', 'amoxicillin', 'paracetamol']","['amoxicillin', 'paracetamol']",2,0,1,0,0.6666666666666666
+es-S0376-78922014000100013-1,"['mesna', 'cyclophosphamide', 'vincristine', 'mg', 'doxurrubicin']","['mesna', 'vincristine', 'cyclophosphamide', 'doxurrubicin']",4,0,1,0,0.8
+es-S0210-48062004000300007-1,['e-aminocaproic acid'],['e-aminocaproic acid'],1,0,0,0,1.0
+es-S0210-56912006000800008-1,"['pentoxifylline', 'albumin', 'alcohol', 'mg', 'heparin na', 'terlipressin', 'epoprostenol sodium']","['pentoxifylline', 'albumin', 'heparin na', 'terlipressin', 'epoprostenol sodium']",5,0,2,0,0.7142857142857143
+es-S1139-76322016000300013-1,"['mg', 'immunoglobulin', 'gamma globulin', 'intravenous gamma globulin']","['gamma globulin', 'intravenous gamma globulin']",2,0,2,0,0.5
+es-S0211-69952014000200016-1,"['p', 'iron', 'erythropoietin']","['iron', 'erythropoietin']",2,0,1,0,0.6666666666666666
+es-S0210-48062007001000004-4,"['cisplatin', 'etoposide']","['cisplatin', 'etoposide']",2,0,0,0,1.0
+es-S0210-48062005000300016-2,"['immunoglobulins', 'heparin', 'cocaine', 'mg', 'verapamil']","['heparin', 'verapamil']",2,0,3,0,0.4
+es-S1135-76062014000300006-1,"['metamizole', 'dipyrone']","['metamizole', 'dipyrone']",2,0,0,0,1.0
+S0004-06142005000700014-1,"['doxycycline', 'calcium', 'mg', 'potassium', 'sodium', 'streptomycin', 'glucose']","['streptomycin', 'doxycycline']",2,0,5,0,0.2857142857142857
+es-S1137-66272011000100012-1,"['mg', 'levothyroxine', 'amlodipine']","['levothyroxine', 'amlodipine']",2,0,1,0,0.6666666666666666
+es-S0365-66912006000100010-1,['botulinum toxin'],['botulinum toxin'],1,0,0,0,1.0
+S0004-06142007000300011-1,"['mg', 'ketorolac', 'albumin', 'nitrogen']",['ketorolac'],1,0,3,0,0.25
+es-S1139-76322016000200010-1,"['trimethoprim/sulfamethoxazole', 'cefixime', 'cefuroxime axetil', 'ampicillin', 'gentamicin', 'amoxicillin/clavulanic acid']","['trimethoprim/sulfamethoxazole', 'cefixime', 'cefuroxime axetil', 'ampicillin', 'gentamicin', 'amoxicillin/clavulanic acid']",6,0,0,0,1.0
+es-S0212-71992004000600005-1,"['vancomycin', 'immunoglobulin', 'ceftazidime', 'metronidazole']","['vancomycin', 'ceftazidime', 'metronidazole']",3,0,1,0,0.75
+es-S0004-06142008000400010-1,"['mg', 'goserelin', 'bicalutamide', 'zoledronic acid']","['goserelin', 'bicalutamide', 'zoledronic acid']",3,0,1,0,0.75
+es-S1137-66272016000300010-1,"['penicillin', 'mg', 'o2']",['penicillin'],1,0,2,0,0.3333333333333333
+es-S1699-695X2015000300010-1,"['mg', 'riluzole']",['riluzole'],1,0,1,0,0.5
+es-S0004-06142009000300014-4,"['epirubicin', 'ifosfamide']","['epirubicin', 'ifosfamide']",2,0,0,0,1.0
+es-S0210-48062004000900010-1,"['mg', 'isoniazid', 'pyrazinamide', 'rifampicin']","['isoniazid', 'pyrazinamide', 'rifampicin']",3,0,1,0,0.75
+es-S1138-123X2003000200006-1,"['ledermix', 'gutta-percha', 'calcium hydroxide', '4% mepivacaine']","['ledermix', 'gutta-percha', 'calcium hydroxide', '4% mepivacaine']",4,0,0,0,1.0
+es-S1130-01082008001000010-1,"['mg', 'methylprednisolone', 'gamma globulin']",['methylprednisolone'],1,0,2,0,0.3333333333333333
+es-S0211-57352011000400009-1,"['hydrochlorothiazide', 'bromazepam', 'enalapril', 'mg', 'levothyroxine', 'isotonic saline solution', 'acetylsalicylic acid', 'atenolol', 'sodium', 'mirtazapine', 'nitroglycerin', 'omeprazole', 'tamsulosin', 'sertraline', 'citalopram', 'simvastatin']","['hydrochlorothiazide', 'bromazepam', 'enalapril', 'levothyroxine', 'isotonic saline solution', 'acetylsalicylic acid', 'atenolol', 'mirtazapine', 'nitroglycerin', 'omeprazole', 'tamsulosin', 'sertraline', 'citalopram', 'simvastatin']",14,0,2,0,0.875
+es-S0365-66912006000100009-1,"['pyrazinamide', 'mg', 'isoniazid', 'ethambutol', 'rifampicin']","['isoniazid', 'pyrazinamide', 'ethambutol', 'rifampicin']",4,0,1,0,0.8
+es-S0365-66912012000200004-1,"['combigan', 'mycophenolate mofetil', 'diclofenac sodium', 'diclofenac-lepori', 'brimonidine', 'prednisone', 'brinzolamide', 'tobramycin', 'dexamethasone', 'mg', 'edemox', 'acetazolamide', 'azopt', 'cellcept', 'prograf', 'tacrolimus', 'acyclovir', 'timolol maleate 0.5%', 'saflutan', 'prednisone alonga', 'tafluprost', 'zovirax', 'virex']","['combigan', 'mycophenolate mofetil', 'diclofenac sodium', 'diclofenac-lepori', 'brimonidine', 'prednisone', 'brinzolamide', 'tobramycin', 'dexamethasone', 'edemox', 'timolol maleate', 'acetazolamide', 'azopt', 'cellcept', 'prograf', 'tacrolimus', 'acyclovir', 'saflutan', 'prednisone alonga', 'tafluprost', 'zovirax', 'virex']",21,0,2,1,0.875
+es-S1130-01082007000500016-1,"['metronidazole', 'capecitabine', 'mg', 'gentamicin', 'ceftriaxone']","['gentamicin', 'metronidazole', 'capecitabine', 'ceftriaxone']",4,0,1,0,0.8
+es-S1130-01082010000600013-1,"['isosorbide mononitrate', 'iron']",['isosorbide mononitrate'],1,0,1,0,0.5
+es-S1139-13752009000200010-1,"['mycophenolate-mofetil', 'cellce', 'imurel', 'azathioprine']","['mycophenolate-mofetil', 'cellce', 'imurel', 'azathioprine']",4,0,0,0,1.0
+es-S1134-80462014000300004-4,"['bupivacaine', 'capsaicin', 'pregabalin', 'tramadol']","['bupivacaine', 'capsaicin', 'pregabalin', 'tramadol']",4,0,0,0,1.0
+es-S0212-71992007000300007-1,"['immunoglobulins', 'cyclophosphamide', 'anastrozole', 'methylprednisolone', 'epirubicin']","['immunoglobulins', 'cyclophosphamide', 'anastrozole', 'methylprednisolone', 'epirubicin']",5,0,0,0,1.0
+es-S1698-69462006000100006-1,['omeprazole'],['omeprazole'],1,0,0,0,1.0
+es-S0365-66912006000900011-1,"['aminocaproic acid', 'factor viii', 'vitamin k', 'atropine sulphate']",['aminocaproic acid'],1,0,3,0,0.25
+es-S1137-66272016000300012-1,"['bisoprolol', 'amiodarone', 'cr', 'furosemide', 'acenocoumarol', 'mg']","['amiodarone', 'furosemide', 'acenocoumarol', 'bisoprolol']",4,0,2,0,0.6666666666666666
+es-S0210-48062006000300014-1,"['mg', 'cddp', 'k']",['cddp'],1,0,2,0,0.3333333333333333
+es-S1139-76322017000100010-1,"['oral iron', 'iron']",['iron'],1,0,1,0,0.5
+es-S1889-836X2015000200005-2,"['vitamin d', 'denosumab', 'bazedoxifene', 'calcium']","['vitamin d', 'denosumab', 'bazedoxifene', 'calcium']",4,0,0,0,1.0
+es-S1130-01082010000200011-1,"['mg', 'imipenem']",['imipenem'],1,0,1,0,0.5
+es-S0365-66912005000600011-1,"['prednisone', 'fluorometholone', 'torvastatin', 'mg', 'immunoglobulin g', 'gentamicin']","['prednisone', 'torvastatin', 'gentamicin', 'fluorometholone']",4,0,2,0,0.6666666666666666
+es-S0211-69952015000100013-1,"['clonidine', 'alpha methyl dopa', 'labetalol', 'amlodipine', 'calcium', 'enalapril', 'spironolactone', 'potassium', 'losartan', 'nifedipine']","['clonidine', 'alpha methyl dopa', 'labetalol', 'amlodipine', 'enalapril', 'spironolactone', 'losartan', 'nifedipine']",8,0,2,0,0.8
+es-S0212-71992007000100006-1,"['immunoglobulins', 'immunoglobulin']",['immunoglobulins'],1,0,1,0,0.5
+S0004-06142006000900008-1,"['enalapril', 'atenolol']","['enalapril', 'atenolol']",2,0,0,0,1.0
+es-S1699-695X2016000200013-1,"['alcohol', 'cisplatin']",['cisplatin'],1,0,1,0,0.5
+es-S1134-80462004000600007-1,"['p', 'metamizol', 'paracetamol', 'mg', 'midazolam', 'morphine', 'fentanyl']","['metamizol', 'paracetamol', 'midazolam', 'morphine', 'fentanyl']",5,0,2,0,0.7142857142857143
+es-S1130-05582017000200122-1,"['mg', 'thiamine', 'metoclopramide', 'pyridoxine']","['thiamine', 'metoclopramide', 'pyridoxine']",3,0,1,0,0.75
+es-S0212-16112007000100015-1,"['metformin', 'bicarbonate', 'mg', 'dobutamine', 'noradrenaline', 'glinclazide', 'acarbose']","['metformin', 'bicarbonate', 'glinclazide', 'noradrenaline', 'dobutamine', 'acarbose']",6,0,1,0,0.8571428571428571
+es-S0211-69952015000600014-2,['cyclophosphamide'],['cyclophosphamide'],1,0,0,0,1.0
+es-S1130-01082008000300010-1,"['prednisone', 'mg', 'o2']",['prednisone'],1,0,2,0,0.3333333333333333
+es-S0212-71992006000800007-1,"['almagate', 'phosphorus', 'lormetazepam', 'calcium', 'deflazacort', 'mg', 'sodium', 'potassium', 'gabapentin', 'glucose', 'omeprazole', 'rabeprazole', 'iron', 'paroxetine']","['almagate', 'lormetazepam', 'deflazacort', 'gabapentin', 'omeprazole', 'rabeprazole', 'paroxetine']",7,0,7,0,0.5
+es-S0378-48352005000100005-2,"['letrozole', 'trastuzumab', 'epirubicin', 'tamoxifen', 'docetaxel']","['letrozole', 'trastuzumab', 'epirubicin', 'tamoxifen', 'docetaxel']",5,0,0,0,1.0
+es-S0212-16112009000600018-1,"['vitamin a', 'phosphorus', 'bleomycin', 'calcium', 'albumin', 'etoposide', 'vitamin b12', 'mg', 'k', 'zinc sulphate', 'glucose', 'vitamin d', 'zinc', 'cisplatin']","['bleomycin', 'zinc sulphate', 'cisplatin', 'etoposide']",4,0,10,0,0.2857142857142857
+es-S0210-56912009000700006-2,['asa'],['asa'],1,0,0,0,1.0
+es-S0365-66912005001100009-2,"['timolol maleate 0.5%', 'timoftol® 0.5%']","['timolol maleate 0.5%', 'timoftol® 0.5%']",2,0,0,0,1.0
+es-S1139-76322016000300015-1,['silver nitrate'],['silver nitrate'],1,0,0,0,1.0
+es-S0365-66912008000700010-1,['latanoprost'],['latanoprost'],1,0,0,0,1.0
+es-S0465-546X2014000300010-1,"['nervobion', 'konakion', 'lysozyme', 'polyvalent human gamma globulin']","['nervobion', 'konakion', 'lysozyme', 'polyvalent human gamma globulin']",4,0,0,0,1.0
+es-S0365-66912012001100004-1,"['bevacizumab', 'anti-vegf']","['bevacizumab', 'anti-vegf']",2,0,0,0,1.0
+es-S0365-66912006001200009-1,"['mg', 'ciprofloxacin']",['ciprofloxacin'],1,0,1,0,0.5
+es-S1130-01082006000900015-1,['5-asa'],['5-asa'],1,0,0,0,1.0
+es-S0210-48062005000700015-1,"['mg', 'mitomycin c']",['mitomycin c'],1,0,1,0,0.5
+es-S2340-98942015000100005-1,"['prednisone', 'montelukast', 'trabectedin', 'mg', 'paclitaxel', 'carboplatin', 'ranitidine', 'platinum salt', 'cetirizine', 'pegylated liposomal adriamycin']","['prednisone', 'montelukast', 'trabectedin', 'paclitaxel', 'carboplatin', 'ranitidine', 'platinum salt', 'cetirizine', 'pegylated liposomal adriamycin']",9,0,1,0,0.9
+es-S0378-48352005000100005-1,['tamoxifen'],['tamoxifen'],1,0,0,0,1.0
+es-S0213-12852006000600002-1,"['prednisone', 'cyclophosphamide', 'amphotericin b', 'tms', 'vincristine', 'acyclovir', 'etoposide', 'dexamethasone', 'mg', 'd4t', 'efv', 'efavirens', '3tc']","['prednisone', 'cyclophosphamide', 'amphotericin b', 'tms', 'vincristine', 'acyclovir', 'etoposide', 'dexamethasone', 'd4t', 'efv', 'efavirens', '3tc']",12,0,1,0,0.9230769230769232
+es-S1134-80462009000800005-1,"['tramadol', 'mg', 'topiramate', 'amitriptyline', 'gabapentin']","['gabapentin', 'topiramate', 'amitriptyline', 'tramadol']",4,0,1,0,0.8
+es-S0365-66912011000600005-2,"['pegylated ifn alpha-2b', 'ribavirin', 'ifn']","['pegylated ifn alpha-2b', 'ribavirin', 'ifn']",3,0,0,0,1.0
+es-S1130-01082007000700011-1,"['carboplatin', 'etoposide']","['carboplatin', 'etoposide']",2,0,0,0,1.0
+es-S1130-01082006000700014-1,"['ribavirin', 'albumin', 'mg', 'peginf alfa 2a', 'tamoxifen']","['ribavirin', 'peginf alfa 2a', 'tamoxifen']",3,0,2,0,0.6
+es-S0210-48062005000100016-1,"['levofloxacin', 'tobramycin', 'mg', 'cefuroxime-axetil', 'amoxicillin-clavulanic acid', 'glucose', 'ceftriaxone']","['levofloxacin', 'tobramycin', 'cefuroxime-axetil', 'amoxicillin-clavulanic acid', 'ceftriaxone']",5,0,2,0,0.7142857142857143
+es-S0365-66912004000600008-1,"['travatan', 'acular', 'travoprost', 'mg', 'ketorolac', 'edemox', 'timolol maleate 0.5%', 'timoftol 0.5%', 'acetazolamide']","['travatan', 'acular', 'travoprost', 'ketorolac', 'edemox', 'timolol maleate 0.5%', 'timoftol 0.5%', 'acetazolamide']",8,0,1,0,0.8888888888888888
+es-S0378-48352004001000003-1,"['prednisone', 'mitoxontrone', 'adefovir dipivoxil', 'glucose', 'docetaxel']","['prednisone', 'docetaxel', 'mitoxontrone', 'adefovir dipivoxil']",4,0,1,0,0.8
+es-S1137-66272012000300024-1,"['dabigatran', 'bisoprolol', 'enoxaparin', 'unfractionated heparin', 'heparin', 'alendronate', 'olmesartan', 'lepirudin', 'lmwh', 'k', 'atenolol', 'torasemide']","['dabigatran', 'bisoprolol', 'enoxaparin', 'unfractionated heparin', 'lepirudin', 'alendronate', 'olmesartan', 'lmwh', 'atenolol', 'torasemide']",10,0,2,0,0.8333333333333334
+es-S0378-48352006000900006-1,"['gemcitabine', 'mg', 'carboplatin']","['gemcitabine', 'carboplatin']",2,0,1,0,0.6666666666666666
+S0004-06142005001000011-1,"['prednisone', 'mycophenolate mofetil', 'interferon', '6-methyl-prednisolone', 'cyclosporine']","['prednisone', 'mycophenolate mofetil', 'interferon', '6-methyl-prednisolone', 'cyclosporine']",5,0,0,0,1.0
+es-S1130-63432013000100011-1,"['nervinex', 'brivudine', 'leucovorin', 'oxaliplatin', 'amikacin', 'zinc sulphate', 'caspofungin', 'vancomycin', 'sucralfate', 'mg', 'morphine', 'acyclovir', 'granulocyte colony stimulating factors', 'meropenem', 'bevacizumab', '5-fu', 'filgrastim', 'viscous lidocaine', 'famciclovir', 'oxygen', 'fluconazole']","['nervinex', 'brivudine', 'leucovorin', 'oxaliplatin', 'amikacin', 'zinc sulphate', 'caspofungin', 'vancomycin', 'sucralfate', 'morphine', 'acyclovir', 'granulocyte colony stimulating factors', 'meropenem', 'bevacizumab', '5-fu', 'filgrastim', 'viscous lidocaine', 'famciclovir', 'fluconazole']",19,0,2,0,0.9047619047619048
+es-S1134-80462015000200004-1,"['adolonta', 'distraneurine', 'metamizole', 'enantyun', 'tramadol', 'oxycontin', 'alprazolam', 'oxynorm', 'bromazepam', 'alcohol', 'paracetamol', 'cocaine', 'mg', 'mst', 'amitriptyline', 'morphine', 'pregabalin']","['adolonta', 'distraneurine', 'enantyun', 'tramadol', 'oxycontin', 'alprazolam', 'oxynorm', 'bromazepam', 'paracetamol', 'mst', 'amitriptyline', 'pregabalin', 'morphine', 'metamizole']",14,0,3,0,0.8235294117647058
+es-S0212-16112013000300056-1,"['imipenem', 'daptomycin', 'linezolid', 'infliximab', 'caspofungin', 'rifampicin']","['imipenem', 'daptomycin', 'linezolid', 'infliximab', 'caspofungin', 'rifampicin']",6,0,0,0,1.0
+es-S0210-48062007000400013-1,"['mg', 'methylprednisolone', 'indomethacin', 'bcg']","['methylprednisolone', 'indomethacin']",2,0,2,0,0.5
+es-S0365-66912007001100010-1,"['mg', 'vigabatrin', 'carbamazepine', 'folic acid']","['vigabatrin', 'carbamazepine']",2,0,2,0,0.5
+es-S0210-56912011000500009-3,"['mg', 'clopidogrel', 'acetylsalicylic acid', 'st', 'o2', 'heparin sodium']","['clopidogrel', 'acetylsalicylic acid', 'heparin sodium']",3,0,3,0,0.5
+es-S0365-66912011000400005-2,"['prednisone', 'rituximab', 'adalimumab', 'methotrexate', 'infliximab']","['prednisone', 'rituximab', 'adalimumab', 'methotrexate', 'infliximab']",5,0,0,0,1.0
+es-S0210-48062006000900014-1,"['imipenem', 'ciprofloxacin', 'metronidazole', 'ceftriaxone']","['imipenem', 'ciprofloxacin', 'metronidazole', 'ceftriaxone']",4,0,0,0,1.0
+es-S0211-57352013000300011-1,"['depakine', 'olanzapine', 'lithium', 'alcohol', 'mg', 'valproic acid', 'lithium salts', 'vitamin b', 'risperidone']","['depakine', 'olanzapine', 'valproic acid', 'lithium salts', 'risperidone']",5,0,4,0,0.5555555555555556
+es-S1139-76322015000500009-1,"['acetazolamide', 'potassium', 'k', 'p']",['acetazolamide'],1,0,3,0,0.25
+es-S0210-48062004000500011-1,['chlorambucil'],['chlorambucil'],1,0,0,0,1.0
+es-S1130-63432014000500010-1,"['mg', 'tocilizumab', 'methylprednisolone']","['tocilizumab', 'methylprednisolone']",2,0,1,0,0.6666666666666666
+es-S0365-66912007000100010-1,"['mg', 'lanreotide', 'octreotide']",['lanreotide'],1,0,2,0,0.3333333333333333
+S0004-06142007000100012-1,"['trimethoprim-sufamethoxazole', 'furosemide', 'ampicillin', 'gentamicin', 'cefotaxime']","['trimethoprim-sufamethoxazole', 'furosemide', 'ampicillin', 'gentamicin', 'cefotaxime']",5,0,0,0,1.0
+es-S0365-66912004001000009-1,"['mg', 'methylprednisolone', 'urbason']","['methylprednisolone', 'urbason']",2,0,1,0,0.6666666666666666
+es-S1139-76322017000200009-1,"['mg', 'chlorhexidine', 'acyclovir', 'amoxicillin-clavulanic acid']","['chlorhexidine', 'acyclovir', 'amoxicillin-clavulanic acid']",3,0,1,0,0.75
+es-S1137-66272014000300016-1,"['mg', 'immunoglobulins', 'vancomycin', 'ceftriaxone']","['vancomycin', 'ceftriaxone']",2,0,2,0,0.5
+es-S1137-66272006000500012-1,"['mg', 'acetylsalicylic acid', 'asa', 'p']","['acetylsalicylic acid', 'asa']",2,0,2,0,0.5
+es-S0210-56912011000200009-1,"['prednisone', 'imipenem', 'ganciclovir', 'albumin', 'trimethoprim/sulfamethoxasol', 'oxygen', 'p']","['prednisone', 'imipenem', 'ganciclovir', 'trimethoprim/sulfamethoxasol', 'oxygen']",5,0,2,0,0.7142857142857143
+es-S1130-05582008000200006-1,['hydantoin'],['hydantoin'],1,0,0,0,1.0
+es-S1130-63432016000200009-1,"['vitamin b12', 'mg', 'folic acid', 'ebastine', 'iron']","['ebastine', 'vitamin b12']",2,0,3,0,0.4
+es-S0004-06142009000100012-1,"['gemcitabine', 'docetaxel', 'ifosfamide', 'adriamycin']","['gemcitabine', 'docetaxel', 'ifosfamide', 'adriamycin']",4,0,0,0,1.0
+es-S0378-48352006000400006-1,"['paclitaxel', 'carboplatin', 'megestrol acetate']","['paclitaxel', 'carboplatin', 'megestrol acetate']",3,0,0,0,1.0
+es-S1698-69462006000200016-1,"['mg', 'ibuprofen', 'amoxicillin 875 mg / clavulanic acid']","['ibuprofen', 'amoxicillin 875 mg / clavulanic acid']",2,0,1,0,0.6666666666666666
+es-S1134-80462005000300004-1,"['fentanyl citrate', 'morphine', 'fentanyl']","['fentanyl citrate', 'fentanyl']",2,0,1,0,0.6666666666666666
+es-S0210-48062005000400012-1,"['filgastrim', 'carboplatin', 'cisplatin', 'gencitabine']","['filgastrim', 'carboplatin', 'cisplatin', 'gencitabine']",4,0,0,0,1.0
+es-S1131-57682003000300008-1,"['omeprazole', 'cefuroxime-axetil', 'mg', 'albumin']","['omeprazole', 'cefuroxime-axetil']",2,0,2,0,0.5
+es-S1139-13752009000200010-2,"['ganciclovir', 'cyclosporine', 'imurel', 'iron', 'azathioprine']","['azathioprine', 'ganciclovir', 'imurel', 'cyclosporine']",4,0,1,0,0.8
+es-S1130-01082006000100014-1,"['gentamicin', 'mesalazine', 'albumin', 'mg', 'ampicillin', 'infliximab', 'azithromycin', 'azathioprine']","['gentamicin', 'mesalazine', 'ampicillin', 'infliximab', 'azithromycin', 'azathioprine']",6,0,2,0,0.75
+es-S0365-66912010000700004-1,"['avandia', 'rosiglitazone', 'insulin', 'rosiglitiazone']","['avandia', 'rosiglitazone', 'insulin', 'rosiglitiazone']",4,0,0,0,1.0
+es-S1137-66272011000300023-1,"['mg', 'acyclovir']",['acyclovir'],1,0,1,0,0.5
+es-S1130-01082008000400013-1,"['mg', 'acenocoumarol', 'glucose', 'enoxaparin']","['acenocoumarol', 'enoxaparin']",2,0,2,0,0.5
+es-S1130-63432016000100007-1,"['foscarnet', 'leflunomide', 'ganciclovir', 'everolimus', 'valganciclovir', 'mg', 'maribavir', 'cyclosporine']","['foscarnet', 'leflunomide', 'ganciclovir', 'everolimus', 'valganciclovir', 'maribavir', 'cyclosporine']",7,0,1,0,0.875
+es-S1137-66272013000300020-1,"['omeprazole', 'mg', 'pantoprazole', 'fluconazole']","['omeprazole', 'fluconazole', 'pantoprazole']",3,0,1,0,0.75
+es-S0004-06142010000500011-1,"['aminocaproic acid', 'saline solution']","['aminocaproic acid', 'saline solution']",2,0,0,0,1.0
+es-S0211-69952013000500019-1,"['mycophenolic acid', 'tacrolimus', 'mg', 'spironolactone', 'p', 'interferon alpha']","['mycophenolic acid', 'spironolactone', 'tacrolimus', 'interferon alpha']",4,0,2,0,0.6666666666666666
+es-S1130-01082007001100012-1,"['tg', 'albumin', 'somatostatin', 'mg', 'glucose']",['somatostatin'],1,0,4,0,0.2
+es-S1130-01082008000800011-1,['amphotericin b'],['amphotericin b'],1,0,0,0,1.0
+es-S1139-76322015000400006-1,"['physiological saline solution', 'calcium', 'mg', 'potassium', 'k', 'sodium bicarbonate', 'glucose', 'potassium citrate', 'o2', 'bicarbonate']","['physiological saline solution', 'potassium', 'sodium bicarbonate', 'potassium citrate', 'bicarbonate']",5,0,5,0,0.5
+es-S0211-69952011000500011-2,"['metformin', 'cr', 'escitalopram', 'mg', 'sodium', 'potassium', 'ibuprofen', 'glucose', 'mirtazapine', 'simvastatin', 'bicarbonate']","['metformin', 'escitalopram', 'ibuprofen', 'mirtazapine', 'simvastatin']",5,0,6,0,0.4545454545454545
+es-S0365-66912007000200009-1,"['infliximab', 'remicade', 'methylprednisolone', 'methotrexate']","['infliximab', 'remicade', 'methylprednisolone', 'methotrexate']",4,0,0,0,1.0
+es-S0212-71992006001000008-1,"['immunoglobulins', 'pentoxifylline', 'azathioprine']","['pentoxifylline', 'azathioprine']",2,0,1,0,0.6666666666666666
+es-S0365-66912012000200003-1,"['prednisone', 'trigon depot', 'triamcinolone']","['prednisone', 'trigon depot', 'triamcinolone']",3,0,0,0,1.0
+es-S1887-85712013000200013-1,"['argentic sulphadiazine', 'neomycin', 'midazolam', 'mg', 'ketamine', 'bacitracin-zinc', 'polymyxin b sulphate']","['argentic sulphadiazine', 'neomycin', 'midazolam', 'ketamine', 'bacitracin-zinc', 'polymyxin b sulphate']",6,0,1,0,0.8571428571428571
+es-S0365-66912007000700011-1,"['mg', 'ibuprofen']",['ibuprofen'],1,0,1,0,0.5
+es-S1130-01082005001200011-1,"['clonazepam', 'calcium', 'mg', 'piracetan', 'vitamin b', 'azathioprine']","['clonazepam', 'piracetan', 'azathioprine']",3,0,3,0,0.5
+es-S1137-66272013000200023-1,"['gemcitabine', 'paclitaxel', 'carboplatin', 'cisplatin']","['gemcitabine', 'paclitaxel', 'carboplatin', 'cisplatin']",4,0,0,0,1.0
+es-S1130-01082007000600012-1,"['penicillin', 'folic acid', 'iron', 'gamma globulin']",['penicillin'],1,0,3,0,0.25
+es-S1137-66272013000200022-1,"['vitamin b12', 'mg', 'oral iron', 'claversal', 'folic acid', 'azathioprine']","['vitamin b12', 'folic acid', 'claversal', 'iron', 'azathioprine']",4,0,2,1,0.5714285714285714
+es-S1134-80462015000100006-1,"['codeine', 'tramadol', 'saline solution', 'acyclovir', 'mg', 'potassium', 'pregabalin', 'acetaminophen with codeine', 'diclofenac', 'morphine', 'acetaminophen']","['codeine', 'tramadol', 'saline solution', 'acyclovir', 'pregabalin', 'acetaminophen with codeine', 'diclofenac', 'morphine', 'acetaminophen']",9,0,2,0,0.8181818181818182
+es-S0376-78922012000200008-1,"['letrozole', 'lidocaine', 'cyclophosphamide', 'taxane', 'lidocaine 1%', 'adrenaline', 'trastuzumab', 'adriamycin', 'silicone gel']","['letrozole', 'cyclophosphamide', 'taxane', 'lidocaine 1%', 'adrenaline', 'trastuzumab', 'adriamycin']",7,0,2,0,0.7777777777777778
+es-S0210-56912006000100005-1,"['oxygen', 'o2', 'oni', 'dopamine']","['oxygen', 'o2', 'oni', 'dopamine']",4,0,0,0,1.0
+es-S1130-05582008000500007-1,"['metronidazole', 'amoxicillin-clavulanic acid', 'tetanus vaccine and gamma globulin']","['metronidazole', 'amoxicillin-clavulanic acid', 'tetanus vaccine and gamma globulin']",3,0,0,0,1.0
+es-S0211-69952013000200019-1,"['mg', 'dextrose 1.5%']",['dextrose 1.5%'],1,0,1,0,0.5
+es-S0378-48352005000400004-1,"['calcium', 'adr', 'dtic', 'ctx', 'cddp', 'vp16', 'calcitonin']","['vp16', 'adr', 'cddp', 'ctx', 'dtic']",5,0,2,0,0.7142857142857143
+es-S0210-48062006000700012-1,['levofloxacin'],['levofloxacin'],1,0,0,0,1.0
+es-S1139-76322013000100010-1,"['mg', 'amoxicillin', 'amoxicillin/clavulanic acid']","['amoxicillin', 'amoxicillin/clavulanic acid']",2,0,1,0,0.6666666666666666
+es-S0212-16112012000300029-1,"['mg', 'albumin', 'octeotride', 'oxygen']",['octeotride'],1,0,3,0,0.25
+es-S1139-76322015000300017-1,['fusidic acid'],['fusidic acid'],1,0,0,0,1.0
+es-S0365-66912009000100008-1,['atropine 1%'],['atropine 1%'],1,0,0,0,1.0
+es-S1887-85712014000100005-1,"['dabigatran', 'enalapril', 'simvastatin']","['dabigatran', 'enalapril', 'simvastatin']",3,0,0,0,1.0
+es-S1130-01082008000200009-3,['heparin'],['heparin'],1,0,0,0,1.0
+es-S1131-57682001000100007-2,"['mg', 'rifampicin']",['rifampicin'],1,0,1,0,0.5
+es-S0211-69952014000500020-1,"['cr', 'golimumab', 'adalimumab', 'humira']","['golimumab', 'adalimumab', 'humira']",3,0,1,0,0.75
+es-S1134-80462008000800003-1,"['procaine', 'metoprolol', 'o2', 'epinephrine']","['metoprolol', 'procaine', 'epinephrine']",3,0,1,0,0.75
+es-S1130-63432014000100011-1,"['betamethasone', 'clonazepam', 'clonacepam', 'etanercept', 'mycophenolate mofetil', 'valproic', 'levetiracetam', 'mg', 'clobetasol', 'ciclosporin', 'carbamazepine', 'valproic acid', 'levitiracetam', 'biperidene', 'diazepam', 'calcipotriol']","['betamethasone', 'clonazepam', 'clonacepam', 'etanercept', 'mycophenolate mofetil', 'valproic', 'levetiracetam', 'clobetasol', 'calcipotriol', 'carbamazepine', 'valproic acid', 'levitiracetam', 'biperidene', 'diazepam', 'ciclosporin']",15,0,1,0,0.9375
+es-S1887-85712011000200007-1,"['nadolol', 'mg', 'levothyroxine', 'topiramate', 'timolol maleate', 'acetazolamide', 'bimatoprost']","['nadolol', 'levothyroxine', 'topiramate', 'timolol maleate', 'acetazolamide', 'bimatoprost']",6,0,1,0,0.8571428571428571
+es-S1139-76322014000500011-1,"['mg', 'deflazacort', 'ibuprofen', 'glucose']","['deflazacort', 'ibuprofen']",2,0,2,0,0.5
+es-S1130-01082011000500014-1,"['mesalazine', 'azatriopine', 'albumin', 'mg', 'sodium heparin', 'glucose', 'low molecular weight heparin']","['sodium heparin', 'azatriopine', 'low molecular weight heparin', 'mesalazine']",4,0,3,0,0.5714285714285714
+es-S1134-80462009000800008-1,"['oxycodone', 'methadone', 'calcium', 'acenocoumarin', 'hydromorphone', 'morphine', 'fentanyl']","['oxycodone', 'methadone', 'acenocoumarin', 'hydromorphone', 'morphine', 'fentanyl']",6,0,1,0,0.8571428571428571
+es-S1575-06202010000200004-1,"['betamethasone', 'tracolimus 0.1%', 'salicylic petrolatum', 'calcipotriol']","['betamethasone', 'tracolimus 0.1%', 'salicylic petrolatum', 'calcipotriol']",4,0,0,0,1.0
+es-S0378-48352005000500005-1,"['vcr', 'adr', 'vp-16', 'ifosfamide', 'ctx']","['vcr', 'adr', 'vp-16', 'ifosfamide', 'ctx']",5,0,0,0,1.0
+es-S1130-01082007001200014-1,"['ibuprofen', 'mianserin', 'ketoprofen']","['ibuprofen', 'mianserin', 'ketoprofen']",3,0,0,0,1.0
+es-S0212-16112014000300032-1,"['imipenem', 'meropenem', 'glucose']","['imipenem', 'meropenem', 'glucose']",3,0,0,0,1.0
+es-S0210-48062007000100012-1,"['cisplatin', 'etoposide']","['cisplatin', 'etoposide']",2,0,0,0,1.0
+es-S0212-16112012000400060-1,"['interferon', 'mg', 'k', 'glucose', 'bicarbonate']",['interferon'],1,0,4,0,0.2
+es-S1130-01082008000800009-1,"['omeprazole', 'mg']",['omeprazole'],1,0,1,0,0.5
+es-S1134-80462015000200005-1,"['dexketoprofen', 'paracetamol', 'mg', 'oxygen', 'tromethamol', 'fentanyl']","['dexketoprofen', 'tromethamol', 'fentanyl', 'paracetamol']",4,0,2,0,0.6666666666666666
+es-S0212-71992006000200006-1,"['vancomycin', 'atorvastatin', 'tobramycin', 'mg', 'gliclazide', 'acetylsalicylic acid', 'quinapril', 'amoxicillin-clavulanic acid', 'acarbose']","['vancomycin', 'atorvastatin', 'tobramycin', 'gliclazide', 'acetylsalicylic acid', 'quinapril', 'amoxicillin-clavulanic acid', 'acarbose']",8,0,1,0,0.8888888888888888
+es-S1134-80462016000600005-3,"['tramadol', 'mg', 'amitriptyline', 'carbamazepine', 'pregabalin', 'p']","['amitriptyline', 'carbamazepine', 'pregabalin', 'tramadol']",4,0,2,0,0.6666666666666666
+es-S1134-80462009000800004-1,"['mg', 'midazolam', 'ketamine']","['midazolam', 'ketamine']",2,0,1,0,0.6666666666666666
+es-S0210-48062005000600013-1,"['saline solution', 'colchicine']",['colchicine'],1,0,1,0,0.5
+es-S0210-56912008000400007-1,['labetalol'],['labetalol'],1,0,0,0,1.0
+es-S0212-16112012000500042-1,"['cu', 'chlorine', 'phosphorus', 'calcium', 'mn', 'cr', 'albumin', 'sodium', 'potassium', 'mg', 'se', 'magnesium', 'infliximab', 'glucose', 'zinc', 'nitrogen']","['cu', 'chlorine', 'phosphorus', 'calcium', 'mn', 'cr', 'sodium', 'potassium', 'se', 'magnesium', 'infliximab', 'zinc']",12,0,4,0,0.75
+es-S0210-56912007000200007-3,"['teicoplanin', 'dopamine', 'mg', 'sodium bicarbonate', 'cefotaxime', 'noradrenaline']","['teicoplanin', 'dopamine', 'sodium bicarbonate', 'cefotaxime', 'noradrenaline']",5,0,1,0,0.8333333333333334
+es-S1130-01082008001200016-2,"['mg', 'imatinib']",['imatinib'],1,0,1,0,0.5
+es-S1130-63432016000400010-1,"['igs', 'enoxaparin', 'lmwh', 'mg', 'low molecular weight heparin']","['igs', 'lmwh', 'low molecular weight heparin', 'enoxaparin']",4,0,1,0,0.8
+es-S0212-71992006000700009-1,"['vancomycin', 'piperacillin', 'amiodarone', 'tazobactam', 'dopamine', 'mg', 'gentamicin', 'o2']","['vancomycin', 'piperacillin', 'amiodarone', 'tazobactam', 'dopamine', 'gentamicin']",6,0,2,0,0.75
+es-S0211-69952016000200176-1,"['prednisone', 'levofloxacin', 'cyclophosphamide', '6-methylprednisolone', 'tacrolinus', 'mycophenolate mofetil', 'tacrolimus', 'mg', 'p']","['prednisone', 'levofloxacin', 'cyclophosphamide', '6-methylprednisolone', 'tacrolinus', 'mycophenolate mofetil', 'tacrolimus']",7,0,2,0,0.7777777777777778
+es-S1130-63432016000400011-1,"['levofloxacin', 'ramucirumab', 'capecitabine', 'oxaliplatin', 'dexamethasone', 'mg', 'paclitaxel', 'filgrastim', 'naproxen', 'epirubicin']","['levofloxacin', 'ramucirumab', 'capecitabine', 'oxaliplatin', 'dexamethasone', 'paclitaxel', 'filgrastim', 'naproxen', 'epirubicin']",9,0,1,0,0.9
+es-S0378-48352004000200007-1,"['bleomycin', 'cyclophosphamide', 'actinomycin-d', 'methotrexate', 'mg', 'adriamycin', 'cisplatin']","['bleomycin', 'cyclophosphamide', 'actinomycin-d', 'methotrexate', 'adriamycin', 'cisplatin']",6,0,1,0,0.8571428571428571
+es-S1130-01082010001100014-1,['cyclophosphamide'],['cyclophosphamide'],1,0,0,0,1.0
+es-S1888-75462016000400180-1,['tinzapain sodium'],['tinzapain sodium'],1,0,0,0,1.0
+es-S0212-16112009000600017-1,"['atorvastatin', 'candesartan', 'ezetimibe', 'enalapril', 'furosemide', 'barnidipine', 'albumin', 'sodium', 'spironolactone', 'mg', 'acetylsalicylic acid', 'k', 'omeprazole', 'p']","['atorvastatin', 'candesartan', 'ezetimibe', 'enalapril', 'furosemide', 'barnidipine', 'spironolactone', 'acetylsalicylic acid', 'omeprazole']",9,0,5,0,0.6428571428571429
+es-S0212-71992007001000007-1,"['prednisone', 'calcium', 'pyrazinamide', 'mg', 'isoniazid', 'k', 'glucose', 'phosphate', 'rifampicin']","['prednisone', 'isoniazid', 'pyrazinamide', 'rifampicin']",4,0,5,0,0.4444444444444444
+es-S1139-76322012000400011-1,['praziquantel'],['praziquantel'],1,0,0,0,1.0
+es-S1130-01082008000500014-1,"['mg', 'thalidomide', 'somatostatin']","['thalidomide', 'somatostatin']",2,0,1,0,0.6666666666666666
+es-S1134-80462013000200002-1,"['lidocaine', 'hyoscine butylbromide', 'levobupivacaine', 'dexketoprofen', 'alprazolam', 'tolterodine', 'morphine chloride', 'paracetamol', 'mg', 'tamsulosin', 'metamizole', 'fentanyl']","['lidocaine', 'hyoscine butylbromide', 'levobupivacaine', 'dexketoprofen', 'alprazolam', 'tolterodine', 'morphine chloride', 'paracetamol', 'tamsulosin', 'metamizole', 'fentanyl']",11,0,1,0,0.9166666666666666
+es-S0378-48352006000400005-1,"['gemcitabine', 'capecitabine', 'p', 'mg', 'il-2', 'atenolol', 'adriamycin', 'ifosfamide', 'iron', 'gemzitabine']","['gemcitabine', 'fluoropyrimidines', 'capecitabine', 'il-2', 'atenolol', 'adriamycin', 'ifosfamide', 'gemzitabine']",7,0,3,1,0.6363636363636364
+es-S1887-85712016000100005-1,"['cefazolin', 'prasugrel', 'acetylsalicylic acid']","['cefazolin', 'prasugrel', 'acetylsalicylic acid']",3,0,0,0,1.0
+es-S2254-28842014000200009-1,"['diazepam', 'heparin', 'physiological saline', '20% human albumin']","['diazepam', 'heparin', 'physiological saline', '20% human albumin']",4,0,0,0,1.0
+es-S1135-76062010000300006-1,['oxcarbazepine'],['oxcarbazepine'],1,0,0,0,1.0
+es-S1139-76322009000100006-1,"['adenosine', 'mg', 'adenocor', 'propranolol', 'saline', 'o2', 'p']","['saline', 'adenocor', 'adenosine', 'propranolol']",4,0,3,0,0.5714285714285714
+es-S0211-69952013000500035-1,"['mg', 'glivec', 'imatinib', 'albumin']","['glivec', 'imatinib']",2,0,2,0,0.5
+es-S1130-01082007000700011-2,"['cddp', 'etoposide']",['etoposide'],1,0,1,0,0.5
+es-S0376-78922008000400007-1,"['thalidomide', 'saline solution', 'colchicine', 'mg', 'silicone gel']","['saline solution', 'colchicine', 'thalidomide']",3,0,2,0,0.6
+es-S0378-48352006000300008-1,"['mg', 'prednisone', 'gemcitabine']","['prednisone', 'gemcitabine']",2,0,1,0,0.6666666666666666
+S0004-06142007000100011-1,['physiological saline solution'],['physiological saline solution'],1,0,0,0,1.0
+es-S1699-695X2014000300006-1,"['atorvastatin', 'amlodipine', 'tramadol', 'acenocoumarol', 'repaglinide', 'paracetamol', 'spironolactone', 'acetylsalicylic acid', 'atenolol', 'oxygen', 'nitroglycerin', 'omeprazole', 'p', 'isophane protamine insulin']","['atorvastatin', 'amlodipine', 'tramadol', 'acenocoumarol', 'repaglinide', 'paracetamol', 'spironolactone', 'acetylsalicylic acid', 'atenolol', 'nitroglycerin', 'omeprazole', 'isophane protamine insulin']",12,0,2,0,0.8571428571428571
+es-S0212-71992006000100005-1,"['levofloxacin', 'phenytoin', 'dexamethasone', 'itraconazole', 'digitalis', 'vitamin d']","['levofloxacin', 'phenytoin', 'dexamethasone', 'itraconazole', 'digitalis']",5,0,1,0,0.8333333333333334
+es-S0212-16112012000300028-1,"['chlorine', 'magnesium sulphate', 'adenosine', 'potassium chloride', 'p', 'saline solution', '5% glucose', 'alcohol', 'mg', 'potassium', 'thiamine', 'k', 'glucose', 'saline', '5% dextrose', 'monopotassium phosphate', 'bicarbonate']","['magnesium sulphate', 'potassium chloride', 'p', 'saline solution', '5% glucose', 'mg', 'potassium', 'thiamine', 'k', 'saline', '5% dextrose', 'monopotassium phosphate']",12,0,5,0,0.7058823529411765
+es-S0212-16112014000600030-2,"['hydrochlorothiazide', 'mg', 'enalapril']","['hydrochlorothiazide', 'enalapril']",2,0,1,0,0.6666666666666666
+es-S0378-48352004000300006-1,"['interferon alfa', 'dacarbazine', 'cisplatin', 'interleukin ii']","['interferon alfa', 'dacarbazine', 'cisplatin', 'interleukin ii']",4,0,0,0,1.0
+es-S1699-695X2017000100011-1,['methylphenidate'],['methylphenidate'],1,0,0,0,1.0
+es-S1889-836X2015000100003-1,['risedronate'],['risedronate'],1,0,0,0,1.0
+es-S1130-01082008000100017-1,"['mg', 'praziquantel']",['praziquantel'],1,0,1,0,0.5
+es-S0211-69952014000200018-1,"['calcium', 'albumin', 'levothyroxine', 'calcium carbonate', 'alpha-calcidiol', 'iron', 'erythropoietin']","['calcium', 'levothyroxine', 'calcium carbonate', 'alpha-calcidiol', 'iron', 'erythropoietin']",6,0,1,0,0.8571428571428571
+es-S0365-66912012000500005-1,"['ranibizumab', 'lucentis']","['ranibizumab', 'lucentis']",2,0,0,0,1.0
+es-S0210-48062009000600017-1,"['pyrazinamide', 'mg', 'isoniazid', 'rifampicin', 'bicarbonate']","['isoniazid', 'pyrazinamide', 'rifampicin', 'bicarbonate']",4,0,1,0,0.8
+es-S1130-01082009000500015-1,"['penicillin', 'mg', 'glucose', 'penicillin g', 'iron']",['penicillin g'],1,0,4,0,0.2
+es-S1130-05582014000400006-1,"['vancomycin', 'saline solution', 'aztreonam', 'mg', 'crystalline sodium penicillin']","['vancomycin', 'saline solution', 'aztreonam', 'crystalline sodium penicillin']",4,0,1,0,0.8
+es-S0211-69952017000200225-1,"['mg', 'eculizumab', 'phosphate', 'iron']",['eculizumab'],1,0,3,0,0.25
+es-S0365-66912008000100009-3,"['chibroxín', 'mg', 'pilocarpine', 'salagen', 'cyclopentolate', 'saline', 'viscofresh® 0.5%']","['chibroxín', 'pilocarpine', 'salagen', 'cyclopentolate', 'viscofresh® 0.5%']",5,0,2,0,0.7142857142857143
+es-S1130-14732005000300004-1,"['ifosfamide', 'adriamycin']","['ifosfamide', 'adriamycin']",2,0,0,0,1.0
+es-S0376-78922015000100011-1,"['carboplatin', 'taxol', 'fluorouracil', '5fu', 'cddp', 'cisplatin']","['carboplatin', 'cisplatin', 'taxol', 'fluorouracil']",4,0,2,0,0.6666666666666666
+es-S1137-66272009000300013-1,"['alprazolam', 'albendazole', 'dexamethasone', 'mg', 'oxcarbazepine']","['albendazole', 'oxcarbazepine', 'dexamethasone', 'alprazolam']",4,0,1,0,0.8
+es-S0211-69952011000500011-1,"['metformin', 'lercanidipine', 'cr', 'acenocoumarol', 'mg', 'glipizide', 'lisinopril-hydrochlorothiazide', 'ibuprofen', 'bicarbonate']","['metformin', 'lercanidipine', 'acenocoumarol', 'glipizide', 'lisinopril-hydrochlorothiazide', 'ibuprofen', 'bicarbonate']",7,0,2,0,0.7777777777777778
+es-S0376-78922016000200012-1,"['cefuroxime', 'physiological saline']","['cefuroxime', 'physiological saline']",2,0,0,0,1.0
+es-S1130-01082009000400014-1,"['neuromade', 'thiamine', 'vitamin b']","['neuromade', 'thiamine', 'vitamin b']",3,0,0,0,1.0
+es-S0004-06142008000500014-1,['ciprofloxacin'],['ciprofloxacin'],1,0,0,0,1.0
+es-S0210-56912010000200009-1,"['5-fluorouracil', 'acyclovir']","['5-fluorouracil', 'acyclovir']",2,0,0,0,1.0
+es-S0212-71992007000300006-1,"['pralidoxime', 'activated charcoal', 'oxydemeton-methyl', 'mg', 'atropine', 'diazepam', 'metasystox']","['pralidoxime', 'activated charcoal', 'oxydemeton-methyl', 'atropine', 'diazepam', 'metasystox']",6,0,1,0,0.8571428571428571
+es-S1130-01082009000500007-1,"['lactulose', 'polyethylene glycol']","['lactulose', 'polyethylene glycol']",2,0,0,0,1.0
+S0004-06142006000100014-1,['spironolactone'],['spironolactone'],1,0,0,0,1.0
+es-S0212-16112005000400011-1,"['addamel', 'glucose solution', 'dexchlorpheniramine', 'cernevit']","['addamel', 'dexchlorpheniramine', 'cernevit']",3,0,1,0,0.75
+es-S0365-66912005001200008-1,"['prednisone', 'cyclophosphamide', 'melphalan', 'cytarabine', 'vincristine', 'bortezomid', 'dexamethasone', 'uracil', 'methotrexate', 'methylprednisolane', 'adriamycin']","['prednisone', 'cyclophosphamide', 'melphalan', 'cytarabine', 'vincristine', 'bortezomid', 'dexamethasone', 'uracil', 'methotrexate', 'methylprednisolane', 'adriamycin']",11,0,0,0,1.0
+es-S0365-66912007000200011-1,['verteporfin'],['verteporfin'],1,0,0,0,1.0
+es-S0210-48062007001000004-1,"['mg', 'bleomicina', 'cisplatin', 'etoposide']","['bleomicina', 'cisplatin', 'etoposide']",3,0,1,0,0.75
+es-S1134-80462006000600005-1,"['lidocaine', 'fentanyl citrate', 'actiq', 'mg', 'midazolam', 'oxygen', 'otfc', 'emla']","['lidocaine', 'fentanyl citrate', 'actiq', 'midazolam', 'oxygen', 'otfc', 'emla']",7,0,1,0,0.875
+es-S1130-01082008000100010-1,"['mg', 'budesonide']",['budesonide'],1,0,1,0,0.5
+es-S1130-01082007000400010-1,"['mg', 'glucagon', 'insulin', 'gencitabine']",['gencitabine'],1,0,3,0,0.25
+es-S1139-76322015000400012-1,"['mg', 'ciprofloxacin', 'amoxicillin-clavulanic acid']","['ciprofloxacin', 'amoxicillin-clavulanic acid']",2,0,1,0,0.6666666666666666
+es-S0004-06142009000800010-1,['enoxaparin'],['enoxaparin'],1,0,0,0,1.0
+es-S0365-66912007000900016-1,"['atropina® 1%', 'triamcinolone acetonide', 'atropine sulphate', 'trigon depot', 'visudyne', 'dexamethasone', 'methotrexate', 'mg', 'methylprednisolone', 'urbason', 'maxidex']","['atropina® 1%', 'triamcinolone acetonide', 'atropine sulphate', 'trigon depot', 'visudyne', 'dexamethasone', 'methotrexate', 'methylprednisolone', 'urbason', 'maxidex']",10,0,1,0,0.9090909090909092
+es-S1134-80462009000100005-1,"['durogesic', 'metoclopramide', 'mg', 'pantoprazole', 'fentanyl']","['pantoprazole', 'durogesic', 'metoclopramide', 'fentanyl']",4,0,1,0,0.8
+es-S1137-66272007000300014-1,"['lidocaine', 'dexametaxone', 'mg', 'ciprofloxacin', 'cyanocobalamin', 'thiamine']","['lidocaine', 'dexametaxone', 'ciprofloxacin', 'cyanocobalamin', 'thiamine']",5,0,1,0,0.8333333333333334
+es-S1130-63432013000400011-2,"['methicillin', 'cotrimoxazole', 'co-trimoxazole', 'amikacin', 'clindamycin', 'mg', 'rapid insulin', 'colistin']","['methicillin', 'cotrimoxazole', 'co-trimoxazole', 'amikacin', 'clindamycin', 'rapid insulin', 'colistin']",7,0,1,0,0.875
+es-S1130-05582013000400005-1,['dacarbazine'],['dacarbazine'],1,0,0,0,1.0
+es-S1134-80462014000300009-1,"['lidocaine', 'acetaminophen']","['lidocaine', 'acetaminophen']",2,0,0,0,1.0
+es-S1139-76322009000500006-1,"['mg', 'cabergoline']",['cabergoline'],1,0,1,0,0.5
+es-S0210-56912007000900007-6,"['metformin', 'amlodipine', 'calcium', 'irbesartan', 'mg', 'bicarbonate']","['metformin', 'irbesartan', 'amlodipine', 'bicarbonate']",4,0,2,0,0.6666666666666666
+es-S1130-01082009000400009-1,"['phosphorus', 'calcium', 'allopurinol', 'mg', 'sodium', 'potassium', 'infliximab', 'rasburicase', 'azathioprine']","['infliximab', 'rasburicase', 'allopurinol', 'azathioprine']",4,0,5,0,0.4444444444444444
+es-S1130-63432013000500013-1,"['ifn', 'emtricitabine', 'tenofovir', 'pegifn-α2a', 'mg', 'pegifn-α2b', 'raltegravir', 'tvr', 'eltrombopag', 'rbv']","['ifn', 'emtricitabine', 'tenofovir', 'pegifn-α2a', 'pegifn-α2b', 'raltegravir', 'tvr', 'eltrombopag', 'rbv']",9,0,1,0,0.9
+es-S0004-06142010000500014-1,"['imipenem', 'trimethoprim sullfamethoxazole', 'penicillin', 'cefotaxime', 'tetracycline', 'amikacin', 'erythromycin', 'amoxicillin with clavulanic acid', 'ampicillin', 'gentamicin', 'p', 'rifampicin']","['imipenem', 'trimethoprim sullfamethoxazole', 'penicillin', 'tetracycline', 'amikacin', 'erythromycin', 'amoxicillin with clavulanic acid', 'ampicillin', 'gentamicin', 'cefotaxime', 'rifampicin']",11,0,1,0,0.9166666666666666
+es-S1130-01082009000500013-1,"['ameride', 'thalidomide', 'mg', 'octreotide', 'manidon retard', 'sintrom']","['ameride', 'thalidomide', 'octreotide', 'manidon retard', 'sintrom']",5,0,1,0,0.8333333333333334
+es-S0004-06142007000900017-1,"['prednisone', 'mg', 'flutamide', 'zoledronic acid', 'docetaxel']","['prednisone', 'flutamide', 'docetaxel', 'zoledronic acid']",4,0,1,0,0.8
+es-S0210-48062009000600012-1,"['fludarabin', 'rituximab', 'mitoxantrone', 'dexamethasone', 'trimetropin sulfamethoxazole', 'seprin', 'omeprazole']","['fludarabin', 'rituximab', 'mitoxantrone', 'dexamethasone', 'trimetropin sulfamethoxazole', 'seprin', 'omeprazole']",7,0,0,0,1.0
+es-S1139-76322012000400010-1,"['mg', 'ibuprofen']",['ibuprofen'],1,0,1,0,0.5
+es-S1139-76322015000100012-3,"['penicillin', 'clotrimazole']","['penicillin', 'clotrimazole']",2,0,0,0,1.0
+es-S1130-05582017000100044-2,"['hyaluronic acid', 'botulinum toxin']","['hyaluronic acid', 'botulinum toxin']",2,0,0,0,1.0
+es-S1135-76062012000200006-1,"['amlodipine', 'duloxetine', 'calcifediol', 'furosemide', 'mg', 'losartan postassium', 'ciprofloxacin', 'amytriptyline hidorchloride', 'omeprazole', 'carbocisteine']","['amlodipine', 'duloxetine', 'calcifediol', 'furosemide', 'losartan postassium', 'ciprofloxacin', 'amytriptyline hidorchloride', 'omeprazole', 'carbocisteine']",9,0,1,0,0.9
+es-S1139-76322015000100014-1,"['levetiracepam', 'acyclovir', 'lithium', 'levetiracetam', 'mg', 'midazolam', 'valproic acid', 'oseltamivir']","['levetiracepam', 'acyclovir', 'lithium', 'levetiracetam', 'midazolam', 'oseltamivir', 'valproic']",6,0,2,1,0.6666666666666666
+es-S0212-16112010000100017-1,"['tg', 'albumin', 'mg', 'octreotide', 'glucose']","['octreotide', 'glucose']",2,0,3,0,0.4
+es-S1889-836X2015000400006-1,"['darunavir', 'didanosine', 'lopinavir/ritonavir', 'ritonavir', 'phosphorus', 'calcium', 'tenofovir', 'mg', 'tdf', 'raltegravir', '1,25 dhcc', '1,25-dihydroxyvitamin d', 'phosphate', '25-hcc', 'bicarbonate']","['darunavir', 'didanosine', 'lopinavir/ritonavir', 'phosphorus', 'tenofovir', 'tdf', 'raltegravir', '1,25 dhcc', '1,25-dihydroxyvitamin d', '25-hcc', 'ritonavir']",11,0,4,0,0.7333333333333333
+es-S0212-16112004000400007-1,"['phenytoin', 'phosphate salts', 'phosphorus', 'hydrocortisone', 'mg', 'potassium', 'thiamine', 'k', 'glucose', 'magnesium', 'acth', 'p']","['phenytoin', 'phosphate salts', 'phosphorus', 'hydrocortisone', 'potassium', 'magnesium', 'acth', 'thiamine']",8,0,4,0,0.6666666666666666
+es-S0004-06142009000100013-1,['albendazole'],['albendazole'],1,0,0,0,1.0
+es-S1699-695X2016000200009-1,"['desmopressin', 'methylprednisolone']","['desmopressin', 'methylprednisolone']",2,0,0,0,1.0
+es-S0211-69952013000200018-1,"['phenytoin', 'furosemide', 'pentoxifylline', 'acenocoumarol', 'paracetamol', 'albumin', 'mg', 'isotonic saline solution', 'omeprazole', 'oral iron', 'oxygen', 'cefepime']","['phenytoin', 'furosemide', 'pentoxifylline', 'acenocoumarol', 'paracetamol', 'isotonic saline solution', 'omeprazole', 'oxygen', 'cefepime', 'iron']",9,0,3,1,0.6923076923076923
+es-S1130-01082005001100016-1,"['albendazole', 'mg', 'polaramine', 'urbason', 'saline']","['polaramine', 'albendazole', 'urbason']",3,0,2,0,0.6
+es-S0004-06142008000100011-1,"['saline', 'oxygenated water']",['oxygenated water'],1,0,1,0,0.5
+es-S0210-56912007000700008-1,"['saline solution', 'mg', 'isotonic saline solution', 'succinylcholine', 'cisatracurium', 'oxygen', 'propofol', 'fentanyl']","['saline solution', 'isotonic saline solution', 'succinylcholine', 'cisatracurium', 'propofol', 'fentanyl']",6,0,2,0,0.75
+es-S0211-69952014000400019-1,"['clonazepam', 'tinazidine', 'baclofen', 'diazepam', 'lioresal']","['clonazepam', 'tinazidine', 'baclofen', 'diazepam', 'lioresal']",5,0,0,0,1.0
+es-S1130-63432013000500017-1,"['imatinib', 'ponatinib', 'vincristine', 'daunorubicin', 'dasatinib', 'nilotinib']","['imatinib', 'ponatinib', 'vincristine', 'daunorubicin', 'dasatinib', 'nilotinib']",6,0,0,0,1.0
+es-S1130-63432014000200011-1,"['prednisone', 'gemcitabine', 'cyclophosphamide', 'emend', 'acitretin', 'vincristine', 'pegylated liposomal doxorubicin', 'gabapentin', 'mg', 'doxorubicin', 'aprepitant4', 'bexarotene', 'chlorambucil', 'aprepitant']","['prednisone', 'gemcitabine', 'cyclophosphamide', 'emend', 'acitretin', 'vincristine', 'pegylated liposomal doxorubicin', 'gabapentin', 'aprepitant4', 'doxorubicin', 'bexarotene', 'chlorambucil', 'aprepitant']",13,0,1,0,0.9285714285714286
+es-S2254-28842012000300010-1,"['sintrom', 'acenocoumarol']","['sintrom', 'acenocoumarol']",2,0,0,0,1.0
+es-S1139-76322014000400009-1,"['amiodarone', 'mg', 'adenosine']","['amiodarone', 'adenosine']",2,0,1,0,0.6666666666666666
+es-S0210-48062003000800013-1,"['amiodarone', 'p']",['amiodarone'],1,0,1,0,0.5
+es-S0210-56912008000100008-1,"['mg', 'st', 'tenecteplase']",['tenecteplase'],1,0,2,0,0.3333333333333333
+es-S0212-16112013000300055-1,"['metformin', 'fenofibrate', 'insulin', 'mesalazine', 'albumin', 'mg', 'omeprazole', 'iron']","['metformin', 'fenofibrate', 'insulin', 'mesalazine', 'omeprazole']",5,0,3,0,0.625
+es-S0004-06142007000900011-1,"['labetalol', 'aspirin', 'calcium', 'adrenaline', 'mg', 'nitroprusside', 'trifusal', 'noradrenaline']","['nitroprusside', 'trifusal', 'labetalol', 'aspirin']",4,0,4,0,0.5
+es-S1135-76062013000100008-1,"['interferon beta', 'metoclopramide', 'ibuprofen', 'diazepam', 'metamizole']","['interferon beta', 'metoclopramide', 'ibuprofen', 'diazepam', 'metamizole']",5,0,0,0,1.0
+es-S1130-05582013000200006-1,"['clarithromycin', 'interferon', 'bevacizumab', 'p', 'iron']","['bevacizumab', 'interferon', 'clarithromycin']",3,0,2,0,0.6
+es-S1130-05582011000300005-1,['cisplatin'],['cisplatin'],1,0,0,0,1.0
+es-S1889-836X2016000100006-1,"['phosphorus', 'calcium', 'alendronate', 'vitamin d', 'p']","['calcium', 'alendronate', 'vitamin d']",3,0,2,0,0.6
+es-S0212-16112010000600022-1,"['phenytoin', 'chlorine', 'tramadol', 'paracetamol', 'sodium', 'magnesium', 'vitamin d', 'phosphate', 'bicarbonate', 'magnesium sulphate', 'cholecalciferol', 'oral rehydration salts', 'mg', 'calcium carbonate', 'sueroral', 'magnesium lactate', 'codeine', 'loperamide', 'calcitriol', 'diazepam', 'magnesium salts', 'calcium gluconate', 'potassium chloride', 'calcium', 'furosemide', 'albumin', 'potassium', 'oral iron']","['phenytoin', 'tramadol', 'paracetamol', 'magnesium', 'magnesium sulphate', 'cholecalciferol', 'oral rehydration salts', 'mg', 'calcium carbonate', 'sueroral', 'magnesium lactate', 'codeine', 'loperamide', 'calcitriol', 'diazepam', 'magnesium salts', 'calcium gluconate', 'potassium chloride', 'calcium', 'furosemide', 'oral iron']",21,0,7,0,0.75
+es-S0212-16112007000800011-1,"['phosphorus', 'magnesium sulphate', 'mesalazine', 'calcium', 'albumin', 'mg', 'sodium', 'carbamazepine', 'k', 'potassium', 'glucose', 'magnesium', 'magnesium lactate']","['magnesium sulphate', 'phosphorus', 'mesalazine', 'carbamazepine', 'magnesium', 'magnesium lactate']",6,0,7,0,0.4615384615384615
+es-S0365-66912007000100009-1,"['mg', 'methylprednisolone']",['methylprednisolone'],1,0,1,0,0.5
+es-S0210-56912008000100008-4,"['reteplase', 'st']",['reteplase'],1,0,1,0,0.5
+es-S1137-66272011000100013-1,"['mg', 'oxygen', 'voriconazole']",['voriconazole'],1,0,2,0,0.3333333333333333
+es-S1130-05582017000200117-1,['amoxicillin/clavulanic acid'],['amoxicillin/clavulanic acid'],1,0,0,0,1.0
+es-S0210-48062006000700010-1,['meropenem'],['meropenem'],1,0,0,0,1.0
+es-S0212-71992004001100007-1,"['heparin', 'acenocoumarol', 'penicillin g sodium', 'bemiparin', 'mg', 'sodium heparin', 'gentamicin']","['heparin', 'acenocoumarol', 'penicillin g sodium', 'bemiparin', 'sodium heparin', 'gentamicin']",6,0,1,0,0.8571428571428571
+es-S0213-12852005000200004-1,['benzathine penicillin'],['benzathine penicillin'],1,0,0,0,1.0
+es-S0212-71992006000600007-1,"['prednisone', 'chloroquine', 'phosphorus', 'penicillin', 'calcium', 'co-trimoxazole', 'methotrexate', 'mg', 'sodium', 'potassium', 'ampicillin', 'glucose', 'gentamicin', 'saline lavage', 'rifampicin']","['prednisone', 'chloroquine', 'penicillin', 'co-trimoxazole', 'methotrexate', 'ampicillin', 'gentamicin', 'saline lavage', 'rifampicin']",9,0,6,0,0.6
+es-S0365-66912005001000011-1,"['trigon depot', 'saline', 'poly-pred eye drops', 'mg', 'ciprofloxacin', 'triamcinolone acetonide', 'oftacilox', 'triamcinolone']","['trigon depot', 'poly-pred eye drops', 'ciprofloxacin', 'triamcinolone acetonide', 'oftacilox', 'triamcinolone']",6,0,2,0,0.75
+es-S0210-56912007000900007-3,"['metformin', 'insulin', 'amiodarone', 'furosemide', 'glibenclamide', 'mg', 'potassium', 'sodium', 'noradrenaline', 'imipen', 'bicarbonate']","['metformin', 'insulin', 'amiodarone', 'furosemide', 'glibenclamide', 'potassium', 'noradrenaline', 'bicarbonate']",8,0,3,0,0.7272727272727273
+S0004-06142006000900009-1,"['deflazacort', 'mesalazine']","['deflazacort', 'mesalazine']",2,0,0,0,1.0
+es-S1699-695X2015000100011-1,"['levetirazepam', 'haemin', 'calcium', 'acyclovir', 'zinc', 'ziprasidone', 'vitamin b12', 'mg', 'valproic acid', 'haloperidol', 'tiapride', 'venlafaxine', 'sertraline', 'folic acid']","['levetirazepam', 'haemin', 'acyclovir', 'ziprasidone', 'valproic acid', 'haloperidol', 'tiapride', 'venlafaxine', 'sertraline']",9,0,5,0,0.6428571428571429
+es-S0365-66912010000300005-1,"['ranibizumab', 'aspirin', 'sulphur hexafluoride', 'sf6', 'r-tpa']","['ranibizumab', 'aspirin', 'sulphur hexafluoride', 'sf6', 'r-tpa']",5,0,0,0,1.0
+es-S1137-66272012000100011-1,"['mg', 'dosazoxin']",['dosazoxin'],1,0,1,0,0.5
+es-S1139-76322009000700015-1,"['mg', 'd-penicillamine', 'amoxicillin']","['d-penicillamine', 'amoxicillin']",2,0,1,0,0.6666666666666666
+S0004-06142005001000011-3,"['tacrolimus', 'interferon-á']","['tacrolimus', 'interferon-á']",2,0,0,0,1.0
+es-S0210-48062009000600018-1,"['5-fluorouracil', 'mg', '5fu', 'cddp', 'morphine', 'cisplatin']","['5fu', 'cddp', '5-fluorouracil', 'cisplatin']",4,0,2,0,0.6666666666666666
+es-S1137-66272011000300024-1,"['insulin', 'cr', 'tg', 'albumin', 'clotrimazole', 'mg', 'insulin aspart', 'glucose', 'insulin glargine', 'fluconazole']","['insulin', 'clotrimazole', 'insulin aspart', 'insulin glargine', 'fluconazole']",5,0,5,0,0.5
+es-S0376-78922016000400007-1,"['imipenem', 'chlorhexidine', 'cilastatin']","['imipenem', 'chlorhexidine', 'cilastatin']",3,0,0,0,1.0
+es-S0212-71992006000700008-1,"['phenytoin', 'teicoplanin', 'acyclovir', 'mg', 'tazocel']","['tazocel', 'phenytoin', 'teicoplanin', 'acyclovir']",4,0,1,0,0.8
+es-S0210-48062005000500016-1,"['mg', ""lactated ringer's solution"", 'amlodipine']","[""lactated ringer's solution"", 'amlodipine']",2,0,1,0,0.6666666666666666
+es-S0365-66912009001100006-1,"['timolol', 'timolol 0.5%']","['timolol', 'timolol 0.5%']",2,0,0,0,1.0
+S0004-06142007000300012-1,"['prednisone', 'surgicel', 'mycophenolate', 'mg', 'cyclosporine']","['prednisone', 'mycophenolate', 'cyclosporine']",3,0,2,0,0.6
+es-S0210-48062004000200011-1,"['prednisone', 'cyclophosphamide', 'rituximab', 'vincristine', 'immunoglobulin g', 'doxorubicin', 'oxygen']","['prednisone', 'cyclophosphamide', 'rituximab', 'vincristine', 'immunoglobulin g', 'doxorubicin', 'oxygen']",7,0,0,0,1.0
+es-S1139-76322013000400008-1,"['penicillin g-benzathine', 'immunoglobulin']",['penicillin g-benzathine'],1,0,1,0,0.5
+es-S1134-80462014000500004-1,"['prednisone', 'montelukast', 'fentanyl', 'metamizole', 'paracetamol', 'dexamethasone', 'mg', 'naproxen', 'oral iron', 'omeprazole', 'pregabalin', 'diazepam', 'desketoprofen', 'morphine', 'iron']","['prednisone', 'montelukast', 'fentanyl', 'metamizole', 'paracetamol', 'dexamethasone', 'naproxen', 'omeprazole', 'pregabalin', 'diazepam', 'desketoprofen', 'morphine', 'iron']",13,0,2,0,0.8666666666666667
+es-S1130-01082007000100009-1,"['prednisone', 'isotetricin', 'albumin', 'mg', '5-asa', 'iron', 'rifampicin', 'azathioprine']","['prednisone', 'isotetricin', '5-asa', 'rifampicin', 'azathioprine']",5,0,3,0,0.625
+es-S1130-63432016000600013-1,"['rivotril', 'paracetamol', 'enantyum', 'pantoprazole', 'ciprofloxacin', 'allopurinol']","['rivotril', 'paracetamol', 'enantyum', 'pantoprazole', 'ciprofloxacin', 'allopurinol']",6,0,0,0,1.0
+es-S0211-69952014000200012-1,"['ifn-α', 'inf-α']","['ifn-α', 'inf-α']",2,0,0,0,1.0
+es-S0212-71992006000900007-1,['omeprazole'],['omeprazole'],1,0,0,0,1.0
+es-S1137-66272008000500007-1,"['immunoglobulins', 'phenobarbital', 'ivig']","['immunoglobulins', 'phenobarbital', 'ivig']",3,0,0,0,1.0
+es-S0365-66912004001200011-1,['interferon'],['interferon'],1,0,0,0,1.0
+es-S1139-76322016000400018-1,"['oxygen', 'dexamethasone', 'adrenaline']","['dexamethasone', 'adrenaline']",2,0,1,0,0.6666666666666666
+es-S1698-44472004000200009-1,"['chlorhexidine digluconate 0.12%', 'mg', 'ibuprofen', '0.2% chlorhexidine', 'physiological saline']","['0.2% chlorhexidine', 'ibuprofen', 'chlorhexidine digluconate 0.12%', 'physiological saline']",4,0,1,0,0.8
+es-S1134-80462009000100005-15,"['fentanyl', 'paracetamol', 'durogesic® matrix']","['fentanyl', 'paracetamol', 'durogesic® matrix']",3,0,0,0,1.0
+es-S0365-66912008000700008-1,"['oxygen', 'immunoglobulins']","['oxygen', 'immunoglobulins']",2,0,0,0,1.0
+es-S0365-66912004000900009-1,"['sintrom', 'acenocoumarol']","['sintrom', 'acenocoumarol']",2,0,0,0,1.0
+es-S0211-69952011000500013-1,"['calcium', 'cinacalcet', 'sevelamer', 'mg', 'calcitriol', 'alfacalcidol', 'calcium carbonate', 'vitamin d', 'phosphate', 'p']","['calcium', 'cinacalcet', 'sevelamer', 'alfacalcidol', 'calcitriol', 'calcium carbonate', 'vitamin d']",7,0,3,0,0.7
+es-S0004-06142007000700014-1,"['penicillin', 'ifosfamide', 'adriamycin']","['penicillin', 'ifosfamide', 'adriamycin']",3,0,0,0,1.0
+es-S0213-12852003000600002-1,"['cresophene', 'cavit']","['cresophene', 'cavit']",2,0,0,0,1.0
+es-S0365-66912010000200005-1,"['triamcinolone', 'isotope iridium 192']","['triamcinolone', 'isotope iridium 192']",2,0,0,0,1.0
+es-S0212-71992004001200007-1,"['prednisone', 'metformin', 'mg', 'neomycin', 'atropine', 'ciprofloxacin', 'glucose', 'ceftriaxone']","['prednisone', 'metformin', 'neomycin', 'atropine', 'ciprofloxacin', 'ceftriaxone']",6,0,2,0,0.75
+es-S0211-69952015000200015-1,"['mg', 'furosemide', 'calcium', 'calcitonin']","['calcium', 'furosemide', 'calcitonin']",3,0,1,0,0.75
+es-S1139-76322015000300018-2,"['mg', 'amoxicillin-clavulanic acid', 'gamma globulin']","['amoxicillin-clavulanic acid', 'gamma globulin']",2,0,1,0,0.6666666666666666
+es-S0211-69952014000200012-2,"['anti-cd3 monoclonal antibody', 'ifn', 'antithymocyte globulin', 'mg', 'pegylated ifn α2a', 'okt3', 'atg', 'erythropoietin', 'rbv']","['anti-cd3 monoclonal antibody', 'ifn', 'antithymocyte globulin', 'pegylated ifn α2a', 'okt3', 'atg', 'erythropoietin', 'rbv']",8,0,1,0,0.8888888888888888
+es-S0365-66912007001000008-1,"['valproic acid', 'ibuprofen']","['valproic acid', 'ibuprofen']",2,0,0,0,1.0
+es-S0212-71992007000400005-1,"['prednisone', 'liposomal amphotericin b', 'calcium', 'amikacin', 'mg', 'methylprednisolone', 'omeprazole', 'vitamin d', 'ceftazidime', 'asa', 'gamma globulin']","['prednisone', 'liposomal amphotericin b', 'calcium', 'amikacin', 'methylprednisolone', 'vitamin d', 'omeprazole', 'ceftazidime', 'asa']",9,0,2,0,0.8181818181818182
+es-S1130-05582005000300007-1,"['acyclovir', 'penicillin g benzathine']","['acyclovir', 'penicillin g benzathine']",2,0,0,0,1.0
+es-S0365-66912012000700003-1,"['irinotecan', 'capecitabine', 'panitumumab', 'oxaliplatin', 'bevacizumab', 'k', 'folinic acid', 'fluorouracil', 'cetuximab', 'methylprednisolone']","['irinotecan', 'capecitabine', 'panitumumab', 'oxaliplatin', 'bevacizumab', 'methylprednisolone', 'folinic acid', 'fluorouracil', 'cetuximab']",9,0,1,0,0.9
+es-S0004-06142009000500009-1,"['fosfomycin', 'trimethoprim-sulfamethoxazole', 'mg', 'cefuroxime-axetil', 'amoxicillin-clavulanic acid', 'glucose', 'piperacillin-tazobactam', 'gentamicin', 'cefotaxime', 'trometamol']","['fosfomycin', 'trimethoprim-sulfamethoxazole', 'cefuroxime-axetil', 'amoxicillin-clavulanic acid', 'piperacillin-tazobactam', 'gentamicin', 'cefotaxime', 'trometamol']",8,0,2,0,0.8
+es-S1134-80462015000500005-1,"['capsaicin', 'lidocaine', 'ebastine', 'pregabalin', 'botulinum toxin']","['capsaicin', 'lidocaine', 'ebastine', 'pregabalin', 'botulinum toxin']",5,0,0,0,1.0
+es-S1137-66272009000100013-1,['dobutamine'],['dobutamine'],1,0,0,0,1.0
+es-S1139-76322014000400007-1,"['methicillin', 'mg', 'amoxicillin-clavulanic acid', 'linezolid', 'meropenem']","['methicillin', 'meropenem', 'amoxicillin-clavulanic acid', 'linezolid']",4,0,1,0,0.8
+es-S0365-66912004001100012-1,"['rifamycin', 'sulphadiazine', 'dexamethasone', 'sodium hyaluronate', 'mg', 'morphine hydrochloride', 'methylprednisolone', 'folinic acid', 'pyrimethamine']","['rifamycin', 'sulphadiazine', 'dexamethasone', 'sodium hyaluronate', 'morphine hydrochloride', 'methylprednisolone', 'folinic acid', 'pyrimethamine']",8,0,1,0,0.8888888888888888
+es-S1134-80462009000200004-1,"['dexamethasone', 'caffeine', 'paracetamol']","['dexamethasone', 'caffeine', 'paracetamol']",3,0,0,0,1.0
+es-S1139-76322015000100013-1,"['tobramycin', 'acyclovir', 'sertaconazole', 'zinc sulphate', 'griseofulvin']","['tobramycin', 'acyclovir', 'sertaconazole', 'zinc sulphate', 'griseofulvin']",5,0,0,0,1.0
+es-S0365-66912007000800012-1,"['azathioprine', 'methotrexate', 'cyclosporine']","['azathioprine', 'methotrexate', 'cyclosporine']",3,0,0,0,1.0
+es-S0210-48062007000500016-1,"['cloxacillin', 'mg', 'potassium', 'sodium', 'ampicillin', 'glucose', 'gentamicin', 'rifampicin', 'ceftriaxone']","['cloxacillin', 'ampicillin', 'gentamicin', 'rifampicin', 'ceftriaxone']",5,0,4,0,0.5555555555555556
+es-S1130-63432016000500012-1,"['sofosbuvir', 'methadone', 'rebetol', 'interferon', 'harvoni', 'viekirax', 'mg', 'ledipasvir', 'exviera']","['sofosbuvir', 'methadone', 'rebetol', 'interferon', 'harvoni', 'viekirax', 'ledipasvir', 'exviera']",8,0,1,0,0.8888888888888888
+es-S1130-63432013000300012-1,"['thalidomide', 'lanreotide', 'acenocoumarol', 'mg', 'iron']","['lanreotide', 'acenocoumarol', 'thalidomide']",3,0,2,0,0.6
+es-S1130-63432015000400006-1,"['methicillin', 'physiological saline solution', 'vancomycin', 'bicarbonate', 'metronidazole', 'tolvaptan', 'saline', 'mg', 'sodium', 'acetylsalicylic acid', 'oseltamivir', 'silidosin', 'omeprazole', 'cefepime', 'desmopressin', 'meropenem', 'lorazepam']","['physiological saline solution', 'vancomycin', 'bicarbonate', 'metronidazole', 'tolvaptan', 'sodium', 'acetylsalicylic acid', 'oseltamivir', 'silidosin', 'omeprazole', 'cefepime', 'desmopressin', 'meropenem', 'lorazepam']",14,0,3,0,0.8235294117647058
+es-S0211-57352015000100011-2,"['tramadol', 'amisulpi-ride', 'olanzapine', 'alcohol', 'cocaine', 'mg', 'diazepam']","['amisulpi-ride', 'olanzapine', 'tramadol', 'diazepam']",4,0,3,0,0.5714285714285714
+es-S0365-66912012000500003-1,"['prednisone', 'methotrexate']","['prednisone', 'methotrexate']",2,0,0,0,1.0
+es-S0376-78922011000200004-1,"['tobramycin', 'teicoplanin', 'mycophenolate', 'prograf', 'tacrolimus', 'clindamycin', 'mg', 'ciprofloxacin', 'dacortin']","['tobramycin', 'teicoplanin', 'mycophenolate', 'prograf', 'tacrolimus', 'clindamycin', 'ciprofloxacin', 'dacortin']",8,0,1,0,0.8888888888888888
+es-S0365-66912011001100006-1,"['prednisone', 'bevacizumab', 'tobradex', 'alcon-cusí', 'cyclosporine']","['prednisone', 'bevacizumab', 'tobradex', 'alcon-cusí', 'cyclosporine']",5,0,0,0,1.0
+es-S0365-66912003000600010-1,"['mg', 'enalapril', 'labetalol']","['enalapril', 'labetalol']",2,0,1,0,0.6666666666666666
+es-S0211-57352011000100008-1,"['olanzapine', 'heparin', 'lithium']","['olanzapine', 'heparin', 'lithium']",3,0,0,0,1.0
+es-S1698-69462006000100017-1,"['clarithromycin', 'chlorhexidine', 'mg', 'amoxicillin-clavulanic acid', 'pamidronate']","['chlorhexidine', 'clarithromycin', 'amoxicillin-clavulanic acid', 'pamidronate']",4,0,1,0,0.8
+es-S1137-66272011000300022-1,"['metronidazole', 'vancomycin', 'cefotaxime', 'amoxicillin-clavulanic acid']","['metronidazole', 'vancomycin', 'cefotaxime', 'amoxicillin-clavulanic acid']",4,0,0,0,1.0
+es-S0212-71992007000300005-1,"['acetylsalicylic acid', 'amoxicillin/clavulanic acid', 'acenocoumarol']","['acetylsalicylic acid', 'amoxicillin/clavulanic acid', 'acenocoumarol']",3,0,0,0,1.0
+es-S1889-836X2015000200005-1,"['leflunomide', 'calcium', 'celecoxib', 'gabapentin', 'magnesium', 'vitamin d']","['gabapentin', 'leflunomide', 'celecoxib']",3,0,3,0,0.5
+es-S0211-69952009000600023-1,"['prednisone', 'calcium', 'mg', 'calcitriol', 'k', 'p']","['prednisone', 'calcitriol']",2,0,4,0,0.3333333333333333
+es-S1137-66272011000100013-3,['voriconazole'],['voriconazole'],1,0,0,0,1.0
+es-S0376-78922009000100011-1,"['metronidazole', 'cefotaxime', 'amikacin', 'trimethoprim/sulfamethoxazole', 'testosterone', 'ceftazidime']","['metronidazole', 'cefotaxime', 'amikacin', 'trimethoprim/sulfamethoxazole', 'testosterone', 'ceftazidime']",6,0,0,0,1.0
